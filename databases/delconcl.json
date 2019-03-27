@@ -1,49 +1,57 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "delitos",
-			"type"       : "category",
-			"dictionary" : "delitos"
-		},
-		{
-			"column" : "caupcott",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "caupco1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "caupco2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "caupco3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "caupco4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "caupco5",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "caupco6",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "delitos",
+            "short": "Tipo de delito",
+            "type": "category",
+            "dictionary": "delitos"
+        },
+        {
+            "column": "caupcott",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "caupco1",
+            "short": "Causas penales concluidas (Sistema Tradicional) - Consumados",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "caupco2",
+            "short": "Causas penales concluidas (Sistema Tradicional) - Tentativas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "caupco3",
+            "short": "Causas penales concluidas (Sistema Tradicional) - No especificado",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "caupco4",
+            "short": "Causas penales concluidas por los Juzgados de Control o Garant\u00edas (Sistema Penal Acusatorio) - Consumados",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "caupco5",
+            "short": "Causas penales concluidas por los Juzgados de Control o Garant\u00edas (Sistema Penal Acusatorio) - Tentativas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "caupco6",
+            "short": "Causas penales concluidas por los Juzgados de Control o Garant\u00edas (Sistema Penal Acusatorio) - No especificado",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

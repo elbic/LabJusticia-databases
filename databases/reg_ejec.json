@@ -1,29 +1,33 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "delconsu",
-			"type"       : "category",
-			"dictionary" : "delconsu"
-		},
-		{
-			"column" : "delregtt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "delreg1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "delreg2",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "delconsu",
+            "short": "Tipo de delito",
+            "type": "category",
+            "dictionary": "delconsu"
+        },
+        {
+            "column": "delregtt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "delreg1",
+            "short": "Delitos consumados",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "delreg2",
+            "short": "Delitos en grado de tentativa",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

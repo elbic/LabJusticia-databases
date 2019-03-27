@@ -1,19 +1,21 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "mater_ja",
-			"type"       : "category",
-			"dictionary" : ""
-		},
-		{
-			"column" : "texpabie",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "mater_ja",
+            "short": "Tipo de materia",
+            "type": "category",
+            "dictionary": ""
+        },
+        {
+            "column": "texpabie",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

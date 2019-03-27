@@ -1,39 +1,40 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "coansele",
-			"type"       : "category",
-			"dictionary" : "coansele"
-		},
-		{
-			"column" : "avsinstt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "avsins1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "avsins2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "avsins4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "avsins5",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "coansele",
+            "short": "Tipo de delito",
+            "type": "category",
+            "dictionary": "coansele"
+        },
+        {
+            "column": "avsinstt",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "avsins1",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "avsins2",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "avsins4",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "avsins5",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

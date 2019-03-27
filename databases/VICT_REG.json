@@ -1,59 +1,69 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "averaini",
-			"type"       : "category",
-			"dictionary" : "averaini"
-		},
-		{
-			"column" : "vicreg1",
-			"type"   : "number",
-			"desc"   : "vicreg1"
-		},
-		{
-			"column" : "vicreg2",
-			"type"   : "number",
-			"desc"   : "vicreg2"
-		},
-		{
-			"column" : "vicreg3",
-			"type"   : "number",
-			"desc"   : "vicreg3"
-		},
-		{
-			"column" : "vicreg4",
-			"type"   : "number",
-			"desc"   : "vicreg4"
-		},
-		{
-			"column" : "vicreg5",
-			"type"   : "number",
-			"desc"   : "vicreg5"
-		},
-		{
-			"column" : "vicreg6",
-			"type"   : "number",
-			"desc"   : "vicreg6"
-		},
-		{
-			"column" : "vicreg7",
-			"type"   : "number",
-			"desc"   : "vicreg7"
-		},
-		{
-			"column" : "vicreg8",
-			"type"   : "number",
-			"desc"   : "vicreg8"
-		},
-		{
-			"column" : "vicreg9",
-			"type"   : "number",
-			"desc"   : "vicreg9"
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "averaini",
+            "short": "Tipo de sistema",
+            "type": "category",
+            "dictionary": "averaini"
+        },
+        {
+            "column": "vicreg1",
+            "short": "Hombres",
+            "type": "number",
+            "desc": "vicreg1"
+        },
+        {
+            "column": "vicreg2",
+            "short": "Mujeres",
+            "type": "number",
+            "desc": "vicreg2"
+        },
+        {
+            "column": "vicreg3",
+            "short": "No identificada",
+            "type": "number",
+            "desc": "vicreg3"
+        },
+        {
+            "column": "vicreg4",
+            "short": "Personas morales",
+            "type": "number",
+            "desc": "vicreg4"
+        },
+        {
+            "column": "vicreg5",
+            "short": "Sociedad",
+            "type": "number",
+            "desc": "vicreg5"
+        },
+        {
+            "column": "vicreg6",
+            "short": "Estado",
+            "type": "number",
+            "desc": "vicreg6"
+        },
+        {
+            "column": "vicreg7",
+            "short": "Otro",
+            "type": "number",
+            "desc": "vicreg7"
+        },
+        {
+            "column": "vicreg8",
+            "short": "No identificada",
+            "type": "number",
+            "desc": "vicreg8"
+        },
+        {
+            "column": "vicreg9",
+            "short": "No identificada",
+            "type": "number",
+            "desc": "vicreg9"
+        }
+    ]
 }

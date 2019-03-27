@@ -1,49 +1,57 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "delitos",
-			"type"       : "category",
-			"dictionary" : "delitos"
-		},
-		{
-			"column" : "cauptrtt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "cauptr1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "cauptr2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "cauptr3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "cauptr4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "cauptr5",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "cauptr6",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "delitos",
+            "short": "Tipo de delito",
+            "type": "category",
+            "dictionary": "delitos"
+        },
+        {
+            "column": "cauptrtt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "cauptr1",
+            "short": "Causas penales en tr\u00e1mite (Sistema Tradicional) - Consumados",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "cauptr2",
+            "short": "Causas penales en tr\u00e1mite (Sistema Tradicional) - Tentativas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "cauptr3",
+            "short": "Causas penales en tr\u00e1mite (Sistema Tradicional) - No especificado",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "cauptr4",
+            "short": "Causas penales en tr\u00e1mite en los Juzgados de Control o Garant\u00edas (Sistema Penal Acusatorio) - Consumados",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "cauptr5",
+            "short": "Causas penales en tr\u00e1mite en los Juzgados de Control o Garant\u00edas (Sistema Penal Acusatorio) - Tentativas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "cauptr6",
+            "short": "Causas penales en tr\u00e1mite en los Juzgados de Control o Garant\u00edas (Sistema Penal Acusatorio) - No especificado",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

@@ -1,39 +1,45 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "edadmeno",
-			"type"       : "category",
-			"dictionary" : "edadmeno"
-		},
-		{
-			"column" : "avinhmtt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "avinhm1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "avinhm2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "avinhm4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "avinhm5",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "edadmeno",
+            "short": "Edad",
+            "type": "category",
+            "dictionary": "edadmeno"
+        },
+        {
+            "column": "avinhmtt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "avinhm1",
+            "short": "Averiguaciones previas iniciadas (Sistema Escrito o Mixto) - Hombres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "avinhm2",
+            "short": "Averiguaciones previas iniciadas (Sistema Escrito o Mixto) - Mujeres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "avinhm4",
+            "short": "Investigaciones abiertas (Sistema Oral) - Hombres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "avinhm5",
+            "short": "Investigaciones abiertas (Sistema Oral) - Mujeres",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

@@ -1,59 +1,69 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column" : "sententt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "senten1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "senten2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "senten3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "senten4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "senten5",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "senten6",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "senten7",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "senten8",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "senten9",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "sententt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "senten1",
+            "short": "Sentencia condenatoria - Hombres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "senten2",
+            "short": "Sentencia condenatoria - Mujeres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "senten3",
+            "short": "Sentencia condenatoria - No especificado",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "senten4",
+            "short": "Sentencia absolutoria - Hombres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "senten5",
+            "short": "Sentencia absolutoria - Mujeres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "senten6",
+            "short": "Sentencia absolutoria - No especificado",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "senten7",
+            "short": "Sentencia mixta - Hombres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "senten8",
+            "short": "Sentencia mixta - Mujeres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "senten9",
+            "short": "Sentencia mixta - No especificado",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

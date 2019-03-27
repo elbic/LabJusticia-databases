@@ -1,50 +1,57 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-
-		{
-			"column" : "carinvtt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "carinv1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "carinv2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "carinv3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "carinv4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "carinv5",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "carinv6",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "carinvne",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "carinvtt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "carinv1",
+            "short": "Formulaci\u00f3n de acusaci\u00f3n",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "carinv2",
+            "short": "Sobreseimiento (total o parcial)",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "carinv3",
+            "short": "Soluciones alternas - Acuerdo reparatorio",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "carinv4",
+            "short": "Soluciones alternas - Suspensi\u00f3n condicional del proceso",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "carinv5",
+            "short": "Procedimiento abreviado",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "carinv6",
+            "short": "Otra",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "carinvne",
+            "short": "No especificado",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

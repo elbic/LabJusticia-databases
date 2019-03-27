@@ -1,19 +1,21 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "mat_alte",
-			"type"       : "category",
-			"dictionary" : "mat_alte"
-		},
-		{
-			"column" : "totalca1",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "mat_alte",
+            "short": "Expedientes abiertos por tipo de materia",
+            "type": "category",
+            "dictionary": "mat_alte"
+        },
+        {
+            "column": "totalca1",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

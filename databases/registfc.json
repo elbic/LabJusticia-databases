@@ -1,39 +1,45 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "coansele",
-			"type"       : "category",
-			"dictionary" : "coansele"
-		},
-		{
-			"column" : "avingrtt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "avingr1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "avingr2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "avingr4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "avingr5",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "coansele",
+            "short": "Tipo de conducta antisocial",
+            "type": "category",
+            "dictionary": "coansele"
+        },
+        {
+            "column": "avingrtt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "avingr1",
+            "short": "Averiguaciones previas determinadas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "avingr2",
+            "short": "Averiguaciones previas determinadas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "avingr4",
+            "short": "Investigaciones determinadas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "avingr5",
+            "short": "Investigaciones determinadas",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

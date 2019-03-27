@@ -1,69 +1,81 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "mater_ja",
-			"type"       : "category",
-			"dictionary" : "mater_ja"
-		},
-		{
-			"column" : "conclstt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "concls1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "concls2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "concls3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "concls4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "concls5",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "concls6",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "concls7",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "concls8",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "concls9",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "no_aplic",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "mater_ja",
+            "short": "Tipo de materia",
+            "type": "category",
+            "dictionary": "mater_ja"
+        },
+        {
+            "column": "conclstt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "concls1",
+            "short": "Conclusi\u00f3n anticipada - Por voluntad de alguno de los intervinientes",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "concls2",
+            "short": "Conclusi\u00f3n anticipada - Por inasistencia injustificada de alguno de los intervinientes",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "concls3",
+            "short": "Conclusi\u00f3n anticipada - No se arrib\u00f3 a un resultado que solucione la controversia",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "concls4",
+            "short": "Conclusi\u00f3n anticipada - Comportamiento irrespetuoso, agresivo o dilatorio de alguno de los intervinientes",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "concls5",
+            "short": "Conclusi\u00f3n anticipada - Desistimiento de los servicios del sistema de Justicia Alternativa y/o Mecanismos Alternativos de Soluci\u00f3n de Controversias",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "concls6",
+            "short": "Conclusi\u00f3n anticipada - Otro",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "concls7",
+            "short": "Asuntos solucionados - Soluci\u00f3n total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "concls8",
+            "short": "Asuntos solucionados - Soluci\u00f3n parcial",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "concls9",
+            "short": "Otro tipo de conclusi\u00f3n",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "no_aplic",
+            "short": "No aplica",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

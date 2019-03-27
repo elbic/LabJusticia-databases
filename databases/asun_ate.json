@@ -1,24 +1,27 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "tipoasun",
-			"type"       : "category",
-			"dictionary" : "tipoasun"
-		},
-		{
-			"column" : "tisist1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "tisist2",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "tipoasun",
+            "short": "Tipo de asunto",
+            "type": "category",
+            "dictionary": "tipoasun"
+        },
+        {
+            "column": "tisist1",
+            "short": "\u00d3rganos jurisdiccionales en materia penal (Sistema Tradicional)",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "tisist2",
+            "short": "Juzgados de Control o Garant\u00edas (Sistema Penal Acusatorio)",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

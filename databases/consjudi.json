@@ -1,14 +1,15 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "re_snn1",
-			"type"       : "category",
-			"dictionary" : "re_snn1"
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "re_snn1",
+            "short": "Consejo de la Judicatura",
+            "type": "category",
+            "dictionary": "re_snn1"
+        }
+    ]
 }

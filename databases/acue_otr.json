@@ -1,19 +1,21 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "acueotro",
-			"type"       : "category",
-			"dictionary" : "acueotro"
-		},
-		{
-			"column" : "totalca1",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "acueotro",
+            "short": "Otro tipo de acuerdos reparatorios",
+            "type": "category",
+            "dictionary": "acueotro"
+        },
+        {
+            "column": "totalca1",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

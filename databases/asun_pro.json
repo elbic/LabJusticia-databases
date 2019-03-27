@@ -1,44 +1,51 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "mat_alte",
-			"type"       : "category",
-			"dictionary" : "mat_alte"
-		},
-		{
-			"column" : "medsoltt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "medsol1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "medsol2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "medsol3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "medsol4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "medsol5",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "mat_alte",
+            "short": "Tipo de materia",
+            "type": "category",
+            "dictionary": "mat_alte"
+        },
+        {
+            "column": "medsoltt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "medsol1",
+            "short": "Mediaci\u00f3n",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "medsol2",
+            "short": "Conciliaci\u00f3n",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "medsol3",
+            "short": "Junta restaurativa",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "medsol4",
+            "short": "A solicitud de parte",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "medsol5",
+            "short": "Otro medio de soluci\u00f3n",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

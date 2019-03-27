@@ -1,29 +1,33 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "tip_conc",
-			"type"       : "category",
-			"dictionary" : "tip_conc"
-		},
-		{
-			"column" : "sisoemtt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "sisoem1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "sisoem2",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "tip_conc",
+            "short": "Tipo de conclusi\u00f3n",
+            "type": "category",
+            "dictionary": "tip_conc"
+        },
+        {
+            "column": "sisoemtt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "sisoem1",
+            "short": "Sistema Escrito o Mixto",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "sisoem2",
+            "short": "Sistema Oral",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

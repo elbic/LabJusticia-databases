@@ -1,34 +1,39 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "medidaca",
-			"type"       : "category",
-			"dictionary" : "medidaca"
-		},
-		{
-			"column" : "resoemtt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "resoem1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "resoem2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "resoemne",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "medidaca",
+            "short": "Tipo de medida cautelar",
+            "type": "category",
+            "dictionary": "medidaca"
+        },
+        {
+            "column": "resoemtt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "resoem1",
+            "short": "Procedentes",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "resoem2",
+            "short": "No procedentes",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "resoemne",
+            "short": "No especificado",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

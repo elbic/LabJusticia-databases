@@ -1,19 +1,21 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "sexohmit",
-			"type"       : "category",
-			"dictionary" : "sexohmit"
-		},
-		{
-			"column" : "totalca1",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "sexohmit",
+            "short": "Sexo",
+            "type": "category",
+            "dictionary": "sexohmit"
+        },
+        {
+            "column": "totalca1",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

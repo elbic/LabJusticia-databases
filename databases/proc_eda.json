@@ -1,39 +1,45 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "rangedad",
-			"type"       : "category",
-			"dictionary" : "rangedad"
-		},
-		{
-			"column" : "stpjsxtt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "stpjsx1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "stpjsx2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "stpjsx4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "stpjsx5",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "rangedad",
+            "short": "Rango de edad",
+            "type": "category",
+            "dictionary": "rangedad"
+        },
+        {
+            "column": "stpjsxtt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "stpjsx1",
+            "short": "Sistema Tradicional - Hombres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "stpjsx2",
+            "short": "Sistema Tradicional - Mujeres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "stpjsx4",
+            "short": "Sistema Penal Acusatorio (Juzgados de Control o Garant\u00edas) - Hombres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "stpjsx5",
+            "short": "Sistema Penal Acusatorio (Juzgados de Control o Garant\u00edas) - Mujeres",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

@@ -1,59 +1,69 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "sexo_ne",
-			"type"       : "category",
-			"dictionary" : "sexo_ne"
-		},
-		{
-			"column" : "puestott",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "puesto1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "puesto2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "puesto3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "puesto4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "puesto5",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "puesto6",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "puesto7",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "puesto8",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "sexo_ne",
+            "short": "Sexo",
+            "type": "category",
+            "dictionary": "sexo_ne"
+        },
+        {
+            "column": "puestott",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "puesto1",
+            "short": "Magistrados",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "puesto2",
+            "short": "Jueces",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "puesto3",
+            "short": "Secretarios",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "puesto4",
+            "short": "Actuarios",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "puesto5",
+            "short": "Secretarios de estudio y cuenta y/o proyectistas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "puesto6",
+            "short": "Otros servidores de carrera judicial",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "puesto7",
+            "short": "Personal administrativo y de apoyo",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "puesto8",
+            "short": "Otro",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

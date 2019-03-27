@@ -1,39 +1,45 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "rangedad",
-			"type"       : "category",
-			"dictionary" : "rangedad"
-		},
-		{
-			"column" : "avcahmtt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "avcahm1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "avcahm2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "avcahm4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "avcahm5",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "rangedad",
+            "short": "Edad",
+            "type": "category",
+            "dictionary": "rangedad"
+        },
+        {
+            "column": "avcahmtt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "avcahm1",
+            "short": "Averiguaciones previas iniciadas - Hombres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "avcahm2",
+            "short": "Averiguaciones previas iniciadas - Mujeres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "avcahm4",
+            "short": "Carpetas de investigaci\u00f3n abiertas  - Hombres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "avcahm5",
+            "short": "Carpetas de investigaci\u00f3n abiertas  - Mujeres",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

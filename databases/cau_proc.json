@@ -1,54 +1,63 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "rangotem",
-			"type"       : "category",
-			"dictionary" : "rangotem"
-		},
-		{
-			"column" : "medcautt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "medcau1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "medcau2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "medcau3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "medcau4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "medcau5",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "medcau6",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "medcaune",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "rangotem",
+            "short": "Rango de temporalidad",
+            "type": "category",
+            "dictionary": "rangotem"
+        },
+        {
+            "column": "medcautt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "medcau1",
+            "short": "Prisi\u00f3n preventiva",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "medcau2",
+            "short": "Exhibici\u00f3n de garant\u00eda econ\u00f3mica",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "medcau3",
+            "short": "Embargo precautorio",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "medcau4",
+            "short": "Prohibici\u00f3n de salir del pa\u00eds",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "medcau5",
+            "short": "Vigilancia policial",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "medcau6",
+            "short": "Otro tipo de medida cautelar",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "medcaune",
+            "short": "No especificado",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

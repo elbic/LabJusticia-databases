@@ -1,39 +1,45 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "averaini",
-			"type"       : "category",
-			"dictionary" : "averaini"
-		},
-		{
-			"column" : "sexoidtt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "sexoid1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "sexoid2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "sexoid3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "sexoid4",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "averaini",
+            "short": "Tipo de sistema",
+            "type": "category",
+            "dictionary": "averaini"
+        },
+        {
+            "column": "sexoidtt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "sexoid1",
+            "short": "Hombres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "sexoid2",
+            "short": "Mujeres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "sexoid3",
+            "short": "No identificado",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "sexoid4",
+            "short": "Otro",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

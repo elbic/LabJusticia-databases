@@ -1,44 +1,51 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "mat_alte",
-			"type"       : "category",
-			"dictionary" : "mat_alte"
-		},
-		{
-			"column" : "tietaptt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "tietap1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "tietap2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "tietap3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "tietap4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "tietapne",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "mat_alte",
+            "short": "Tipo de materia",
+            "type": "category",
+            "dictionary": "mat_alte"
+        },
+        {
+            "column": "tietaptt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "tietap1",
+            "short": "Revisi\u00f3n de aceptabilidad",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "tietap2",
+            "short": "Invitaci\u00f3n",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "tietap3",
+            "short": "Sesiones preliminares",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "tietap4",
+            "short": "Otra etapa",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "tietapne",
+            "short": "No especificado",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

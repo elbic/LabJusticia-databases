@@ -1,19 +1,21 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "delicoan",
-			"type"       : "category",
-			"dictionary" : "delicoan"
-		},
-		{
-			"column" : "tdelcoan",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "delicoan",
+            "short": "Tipo de delito",
+            "type": "category",
+            "dictionary": "delicoan"
+        },
+        {
+            "column": "tdelcoan",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

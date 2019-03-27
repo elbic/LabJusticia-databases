@@ -1,39 +1,45 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "delconsu",
-			"type"       : "category",
-			"dictionary" : "delconsu"
-		},
-		{
-			"column" : "acpecttt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "acpect1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "acpect2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "acpect4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "acpect5",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "delconsu",
+            "short": "Tipo de delito",
+            "type": "category",
+            "dictionary": "delconsu"
+        },
+        {
+            "column": "acpecttt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "acpect1",
+            "short": "Averiguaciones previas pendientes de concluir - Consumadas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "acpect2",
+            "short": "Averiguaciones previas pendientes de concluir - Tentativas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "acpect4",
+            "short": "Carpetas de investigaci\u00f3n pendientes de concluir - Consumadas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "acpect5",
+            "short": "Carpetas de investigaci\u00f3n pendientes de concluir - Tentativas",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

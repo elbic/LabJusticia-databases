@@ -1,19 +1,21 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "aver_det",
-			"type"       : "category",
-			"dictionary" : "aver_det"
-		},
-		{
-			"column" : "totalca1",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "aver_det",
+            "short": "Tipo de determinaci\u00f3n",
+            "type": "category",
+            "dictionary": "aver_det"
+        },
+        {
+            "column": "totalca1",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

@@ -1,39 +1,45 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "coansele",
-			"type"       : "category",
-			"dictionary" : "coansele"
-		},
-		{
-			"column" : "aicotett",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "aicote1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "aicote2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "aicote4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "aicote5",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "coansele",
+            "short": "Tipo de conducta antisocial",
+            "type": "category",
+            "dictionary": "coansele"
+        },
+        {
+            "column": "aicotett",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "aicote1",
+            "short": "Averiguaciones previas pendientes de concluir - Consumadas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "aicote2",
+            "short": "Averiguaciones previas pendientes de concluir - Tentativas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "aicote4",
+            "short": "Investigaciones pendientes de concluir - Consumadas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "aicote5",
+            "short": "Investigaciones pendientes de concluir - Tentativas",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

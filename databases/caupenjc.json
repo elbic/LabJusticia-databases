@@ -1,71 +1,81 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-
-		{
-			"column" : "conclptt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-
-		{
-			"column" : "conclp1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conclp2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conclp3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conclp4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conclp5",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conclp6",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conclp7",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conclp8",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conclp9",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conclp10",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conclpne",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "conclptt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclp1",
+            "short": "Acuerdo reparatorio",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclp2",
+            "short": "Suspensi\u00f3n condicional del proceso",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclp3",
+            "short": "Procedimiento abreviado - Sentencia condenatoria",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclp4",
+            "short": "Procedimiento abreviado - Sentencia absolutoria",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclp5",
+            "short": "Procedimiento abreviado - Sentencia mixta",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclp6",
+            "short": "Perd\u00f3n del ofendido",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclp7",
+            "short": "Apertura de Juicio Oral",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclp8",
+            "short": "Sobreseimiento",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclp9",
+            "short": "Prescripci\u00f3n",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclp10",
+            "short": "Otro tipo de conclusi\u00f3n",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclpne",
+            "short": "No especificado",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

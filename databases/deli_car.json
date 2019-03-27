@@ -1,44 +1,51 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "delconsu",
-			"type"       : "category",
-			"dictionary" : "delconsu"
-		},
-		{
-			"column" : "acdecttt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "acdect1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "acdect2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "acdect3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "acdect4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "acdect5",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "delconsu",
+            "short": "Tipo de delito",
+            "type": "category",
+            "dictionary": "delconsu"
+        },
+        {
+            "column": "acdecttt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "acdect1",
+            "short": "Averiguaciones previas determinadas (Sistema Tradicional) - Consumados",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "acdect2",
+            "short": "Averiguaciones previas determinadas (Sistema Tradicional) - Tentativas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "acdect3",
+            "short": "Averiguaciones previas determinadas (Sistema Tradicional) - No especificado",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "acdect4",
+            "short": "Carpetas de investigaci\u00f3n determinadas (Sistema Penal Acusatorio) - Consumados",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "acdect5",
+            "short": "Carpetas de investigaci\u00f3n determinadas (Sistema Penal Acusatorio) - Tentativas",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

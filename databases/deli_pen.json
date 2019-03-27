@@ -1,29 +1,33 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "delidete",
-			"type"       : "category",
-			"dictionary" : "delidete"
-		},
-		{
-			"column" : "acpenctt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "acpenc1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "acpenc2",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "delidete",
+            "short": "Forma de registro",
+            "type": "category",
+            "dictionary": "delidete"
+        },
+        {
+            "column": "acpenctt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "acpenc1",
+            "short": "Averiguaciones previas pendientes de concluir",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "acpenc2",
+            "short": "Carpetas de investigaci\u00f3n pendientes de concluir",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

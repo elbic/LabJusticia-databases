@@ -1,39 +1,45 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column" : "ticiertt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "ticier1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "ticier2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "ticier3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "ticier4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "ticierne",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "ticiertt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "ticier1",
+            "short": "Formulaci\u00f3n de la acusaci\u00f3n",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "ticier2",
+            "short": "Sobreseimiento",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "ticier3",
+            "short": "Salida alterna",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "ticier4",
+            "short": "Otra",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "ticierne",
+            "short": "No especificado",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

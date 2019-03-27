@@ -1,44 +1,51 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "ticonsig",
-			"type"       : "category",
-			"dictionary" : "ticonsig"
-		},
-		{
-			"column" : "compettt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "compet1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "compet2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "compet3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "compet4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "compet5",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "ticonsig",
+            "short": "Tipo de consignaci\u00f3n",
+            "type": "category",
+            "dictionary": "ticonsig"
+        },
+        {
+            "column": "compettt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "compet1",
+            "short": "Competencia de la Entidad Federativa - Fuero Com\u00fan de la Entidad Federativa",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "compet2",
+            "short": "Competencia de la Entidad Federativa - Justicia para Adolescentes",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "compet3",
+            "short": "Incompetencia de la Entidad Federativa - Fuero Com\u00fan de otra Entidad Federativa",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "compet4",
+            "short": "Incompetencia de la Entidad Federativa - Fuero Federal",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "compet5",
+            "short": "Incompetencia de la Entidad Federativa - Otra",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

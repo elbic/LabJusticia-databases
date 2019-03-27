@@ -1,34 +1,39 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "medidaca",
-			"type"       : "category",
-			"dictionary" : "medidaca"
-		},
-		{
-			"column" : "sexoidtt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "sexoid1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "sexoid2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "sexoid3",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "medidaca",
+            "short": "Tipo de medida cautelar",
+            "type": "category",
+            "dictionary": "medidaca"
+        },
+        {
+            "column": "sexoidtt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "sexoid1",
+            "short": "Hombres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "sexoid2",
+            "short": "Mujeres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "sexoid3",
+            "short": "No identificado",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

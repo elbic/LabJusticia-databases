@@ -1,50 +1,57 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-
-		{
-			"column" : "conclttt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conclt1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conclt2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conclt3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conclt4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conclt5",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conclt6",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conclt7",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "conclttt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclt1",
+            "short": "Sentencia - Condenatoria",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclt2",
+            "short": "Sentencia - Absolutoria",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclt3",
+            "short": "Sentencia - Mixta",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclt4",
+            "short": "Sobreseimiento",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclt5",
+            "short": "Prescripci\u00f3n",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclt6",
+            "short": "Caducidad",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conclt7",
+            "short": "Otro tipo de conclusi\u00f3n",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

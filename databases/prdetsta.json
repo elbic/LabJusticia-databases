@@ -1,59 +1,69 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "delitos",
-			"type"       : "category",
-			"dictionary" : "delitos"
-		},
-		{
-			"column" : "stpsnitt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "stpsni1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "stpsni2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "stpsni3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "stpsni4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "stpsni5",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "stpsni6",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "stpsni7",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "stpsni8",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "delitos",
+            "short": "Tipo de delito",
+            "type": "category",
+            "dictionary": "delitos"
+        },
+        {
+            "column": "stpsnitt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "stpsni1",
+            "short": "Sistema Tradicional - Hombres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "stpsni2",
+            "short": "Sistema Tradicional - Mujeres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "stpsni3",
+            "short": "Sistema Tradicional - No identificado",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "stpsni4",
+            "short": "Sistema Tradicional - Otro",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "stpsni5",
+            "short": "Sistema Penal Acusatorio (Juzgados de Control o Garant\u00edas) - Hombres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "stpsni6",
+            "short": "Sistema Penal Acusatorio (Juzgados de Control o Garant\u00edas) - Hombres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "stpsni7",
+            "short": "Sistema Penal Acusatorio (Juzgados de Control o Garant\u00edas) - No identificado",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "stpsni8",
+            "short": "Sistema Penal Acusatorio (Juzgados de Control o Garant\u00edas) - Otro",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

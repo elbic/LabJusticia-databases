@@ -1,29 +1,30 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "coansele",
-			"type"       : "category",
-			"dictionary" : "coansele"
-		},
-		{
-			"column" : "contentt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conten1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "conten2",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "coansele",
+            "short": "Tipo de conducta antisocial",
+            "type": "category",
+            "dictionary": "coansele"
+        },
+        {
+            "column": "contentt",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conten1",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "conten2",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

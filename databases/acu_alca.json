@@ -1,39 +1,45 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "mat_alte",
-			"type"       : "category",
-			"dictionary" : "mat_alte"
-		},
-		{
-			"column" : "reparatt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "repara1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "repara2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "repara3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "repara4",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "mat_alte",
+            "short": "Tipo de materia",
+            "type": "category",
+            "dictionary": "mat_alte"
+        },
+        {
+            "column": "reparatt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "repara1",
+            "short": "Reconocimiento de responsabilidad y disculpa a la v\u00edctima u ofendido",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "repara2",
+            "short": "Compromiso de no repetici\u00f3n de la conducta y sometimiento a programas y/o tratamientos",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "repara3",
+            "short": "Restituci\u00f3n econ\u00f3mica o en especie a la v\u00edctima u ofendido",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "repara4",
+            "short": "Otro tipo de reparaci\u00f3n",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

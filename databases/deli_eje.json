@@ -1,39 +1,39 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "delconsu",
-			"type"       : "category",
-			"dictionary" : "delconsu"
-		},
-		{
-			"column" : "apcicttt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "apcict1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "apcict2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "apcict4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "apcict5",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "delconsu",
+            "type": "category",
+            "dictionary": "delconsu"
+        },
+        {
+            "column": "apcicttt",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "apcict1",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "apcict2",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "apcict4",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "apcict5",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

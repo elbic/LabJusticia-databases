@@ -1,59 +1,69 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "tiposist",
-			"type"       : "category",
-			"dictionary" : "tiposist"
-		},
-		{
-			"column" : "vicreg1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "vicreg2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "vicreg3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "vicreg4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "vicreg5",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "vicreg6",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "vicreg7",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "vicreg8",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "vicreg9",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "tiposist",
+            "short": "Tipo de sistema",
+            "type": "category",
+            "dictionary": "tiposist"
+        },
+        {
+            "column": "vicreg1",
+            "short": "Personas f\u00edsicas - Hombres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "vicreg2",
+            "short": "Personas f\u00edsicas - Mujeres",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "vicreg3",
+            "short": "Personas f\u00edsicas - No identificada",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "vicreg4",
+            "short": "Personas morales",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "vicreg5",
+            "short": "Otro tipo de v\u00edctima - Sociedad",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "vicreg6",
+            "short": "Otro tipo de v\u00edctima - Estado",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "vicreg7",
+            "short": "Otro tipo de v\u00edctima - Otro",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "vicreg8",
+            "short": "Otro tipo de v\u00edctima - No identificada",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "vicreg9",
+            "short": "No identificada",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

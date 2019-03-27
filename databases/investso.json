@@ -1,19 +1,19 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "CARPINPE",
-			"type"       : "category",
-			"dictionary" : "CARPINPE"
-		},
-		{
-			"column" : "TOTALCA1",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "CARPINPE",
+            "type": "category",
+            "dictionary": "CARPINPE"
+        },
+        {
+            "column": "TOTALCA1",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

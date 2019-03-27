@@ -1,49 +1,57 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "delitos",
-			"type"       : "category",
-			"dictionary" : "delitos"
-		},
-		{
-			"column" : "caupintt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "caupin1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "caupin2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "caupin3",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "caupin4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "caupin5",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "caupin6",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "delitos",
+            "short": "Tipo de delito",
+            "type": "category",
+            "dictionary": "delitos"
+        },
+        {
+            "column": "caupintt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "caupin1",
+            "short": "Causas penales ingresadas (Sistema Tradicional) - Consumados",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "caupin2",
+            "short": "Causas penales ingresadas (Sistema Tradicional) - Tentativas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "caupin3",
+            "short": "Causas penales ingresadas (Sistema Tradicional) - No especificado",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "caupin4",
+            "short": "Causas penales ingresadas a los Juzgados de Control o Garant\u00edas (Sistema Penal Acusatorio) - Consumados",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "caupin5",
+            "short": "Causas penales ingresadas a los Juzgados de Control o Garant\u00edas (Sistema Penal Acusatorio) - Tentativas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "caupin6",
+            "short": "Causas penales ingresadas a los Juzgados de Control o Garant\u00edas (Sistema Penal Acusatorio) - No especificado",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }

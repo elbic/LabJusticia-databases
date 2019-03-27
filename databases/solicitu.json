@@ -1,64 +1,75 @@
 {
-	"columns"   : [
-		{
-			"column"     : "ENTIDAD",
-			"type"       : "category",
-			"dictionary" : "ENTIDAD"
-		},
-		{
-			"column"     : "mat_alte",
-			"type"       : "category",
-			"dictionary" : "mat_alte"
-		},
-		{
-			"column" : "prosoltt",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "prosol1",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "prosol2",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "prosol4",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "prosol5",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "prosol7",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "prosol8",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "prosol10",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "prosol11",
-			"type"   : "number",
-			"desc"   : ""
-		},
-		{
-			"column" : "prosolst",
-			"type"   : "number",
-			"desc"   : ""
-		}
-	]
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "mat_alte",
+            "short": "Tipo de materia",
+            "type": "category",
+            "dictionary": "mat_alte"
+        },
+        {
+            "column": "prosoltt",
+            "short": "Total",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "prosol1",
+            "short": "A propuesta del Ministerio P\u00fablico - Procedentes",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "prosol2",
+            "short": "A propuesta del Ministerio P\u00fablico - Desechadas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "prosol4",
+            "short": "Por iniciativa del solicitante - Procedentes",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "prosol5",
+            "short": "Por iniciativa del solicitante - Desechadas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "prosol7",
+            "short": "Por asuntos judicializados - Procedentes",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "prosol8",
+            "short": "Por asuntos judicializados - Desechadas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "prosol10",
+            "short": "No especificado - Procedentes",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "prosol11",
+            "short": "No especificado - Desechadas",
+            "type": "number",
+            "desc": ""
+        },
+        {
+            "column": "prosolst",
+            "short": "No especificado - Subtotal",
+            "type": "number",
+            "desc": ""
+        }
+    ]
 }
