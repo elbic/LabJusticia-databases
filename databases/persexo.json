@@ -1,0 +1,59 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "sexo_ne",
+			"type"       : "category",
+			"dictionary" : "sexo_ne"
+		},
+		{
+			"column" : "puestott",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "puesto1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "puesto2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "puesto3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "puesto4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "puesto5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "puesto6",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "puesto7",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "puesto8",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column" : "stpsnitt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpsni1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpsni2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpsni3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpsni4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpsni5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpsni6",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpsni7",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpsni8",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

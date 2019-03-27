@@ -1,0 +1,45 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+
+		{
+			"column" : "avinnitt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avinni1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avinni2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avinni3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avinni4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avinni5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avinni6",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

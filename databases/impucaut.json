@@ -1,0 +1,19 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "sexohmit",
+			"type"       : "category",
+			"dictionary" : "sexohmit"
+		},
+		{
+			"column" : "totalca1",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

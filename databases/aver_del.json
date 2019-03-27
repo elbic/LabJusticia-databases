@@ -1,0 +1,59 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "averaini",
+			"type"       : "category",
+			"dictionary" : "averaini"
+		},
+		{
+			"column" : "prores1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "prores2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "prores3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "prores5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "prores6",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "prores7",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "prores8",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "prores10",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "proresne",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

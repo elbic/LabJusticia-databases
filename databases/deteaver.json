@@ -1,0 +1,29 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "tipdeter",
+			"type"       : "category",
+			"dictionary" : "tipdeter"
+		},
+		{
+			"column" : "avindett",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avinde1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avinde2",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

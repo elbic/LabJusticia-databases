@@ -1,0 +1,59 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column" : "sententt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "senten1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "senten2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "senten3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "senten4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "senten5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "senten6",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "senten7",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "senten8",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "senten9",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

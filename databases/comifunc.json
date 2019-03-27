@@ -1,0 +1,24 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "fun_comi",
+			"type"       : "category",
+			"dictionary" : "fun_comi"
+		},
+		{
+			"column" : "totalca1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "no_aplic",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "org_juad",
+			"type"       : "category",
+			"dictionary" : "org_juad"
+		},
+		{
+			"column" : "totalca1",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

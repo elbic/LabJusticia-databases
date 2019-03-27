@@ -1,0 +1,15 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column" : "totalca1",
+			"type"   : "number",
+			"desc"   : "La cantidad de Agencias del Ministerio Público de la Procuraduría General de Justicia o Fiscalía General de las entidades federativas, al cierre del año 2016.",
+			"short"  : "cantidad de Agencias del Ministerio Público"
+		}
+	]
+}

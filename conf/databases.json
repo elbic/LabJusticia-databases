@@ -1,0 +1,1427 @@
+{
+    "resources": [
+        {
+            "name": "Ranking de hallazgos",
+            "file": "MEXEV_RANKING",
+            "desc": "Ranking",
+            "years": [
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017"
+            ],
+            "pack": "México Evalúa",
+            "module": "México Evalúa",
+            "submodule": "México Evalúa"
+        },
+        {
+            "name": "Vehículos robados y recuperados 2017",
+            "file": "VEHI_TIP",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los vehículos robados y recuperados que fueron hechos del conocimiento del Ministerio Público del Fuero Común, según el tipo de vehículo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Vehículos robados y recuperados"
+        },
+        {
+            "name": "delitos cometidos a las víctimas registradas en las averiguaciones previas",
+            "file": "DELIVICT",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos cometidos a las víctimas registradas en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según tipo de víctima, durante el año 2016.",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Víctimas"
+        },
+        {
+            "name": "delitos cometidos a las víctimas (hombres) registradas en las averiguaciones previas",
+            "file": "VIC_HOMB",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos cometidos a las víctimas (hombres) registradas en las averiguaciones previas iniciadas por el Ministerio Público del Fuero Común, según tipo de delito y rango de edad, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Víctimas"
+        },
+        {
+            "name": "delitos cometidos a las víctimas (mujeres) registradas en las averiguaciones previas",
+            "file": "VIC_MUJE",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos cometidos a las víctimas (mujeres) registradas en las averiguaciones previas iniciadas por el Ministerio Público del Fuero Común, según tipo de delito y rango de edad, durante el año 2016.",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Víctimas"
+        },
+        {
+            "name": "víctimas personas físicas (hombres y mujeres)",
+            "file": "VICT_EDA",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las víctimas personas físicas (hombres y mujeres) registradas en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según el rango de edad y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Víctimas"
+        },
+        {
+            "name": "delitos cometidos a las víctimas (hombres) registradas en las carpetas de investigación abiertas por el Ministerio Público del Fuero Común",
+            "file": "VICT_HOM",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos cometidos a las víctimas (hombres) registradas en las carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según tipo de delito y rango de edad, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Víctimas"
+        },
+        {
+            "name": "delitos cometidos a las víctimas (mujeres) registradas en las carpetas de investigación abiertas por el Ministerio Público del Fuero Común",
+            "file": "VICT_MUJ",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos cometidos a las víctimas (mujeres) registradas en las carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según tipo de delito y rango de edad, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Víctimas"
+        },
+        {
+            "name": "víctimas registradas en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas",
+            "file": "VICT_REG",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las víctimas registradas en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según tipo de víctima, durante el año 2016.",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Víctimas"
+        },
+        {
+            "name": "delitos cometidos a las víctimas registradas en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común",
+            "file": "VICT_TIP",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos cometidos a las víctimas registradas en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según tipo de delito y tipo de víctima, durante el año 2016.",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Víctimas"
+        },
+        {
+            "name": "víctimas registradas en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según la cantidad de delitos que les cometieron y tipo de víctima",
+            "file": "VICTICAN",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las víctimas registradas en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según la cantidad de delitos que les cometieron y tipo de víctima, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Víctimas"
+        },
+        {
+            "name": "víctimas personas físicas (hombres y mujeres) registradas en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común",
+            "file": "VICTIREL",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las víctimas personas físicas (hombres y mujeres) registradas en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según la relación con el inculpado y\/o imputado y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Víctimas"
+        },
+        {
+            "name": "las víctimas personas físicas (hombres y mujeres) registradas en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común",
+            "file": "VICTIOCU",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las víctimas personas físicas (hombres y mujeres) registradas en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según la ocupación y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Víctimas"
+        },
+        {
+            "name": "órdenes de detención para adolescente concluidas, según el tipo de sistema y tipo de conclusión",
+            "file": "ORDENCON",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las órdenes de detención para adolescente concluidas, según el tipo de sistema y tipo de conclusión, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Órdenes de detención"
+        },
+        {
+            "name": "órdenes de detención para adolescente giradas a la Policía Ministerial u homóloga, que se encontraban pendientes de cumplir, según el tipo de sistema",
+            "file": "ORDENDET",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las órdenes de detención para adolescente giradas a la Policía Ministerial u homóloga, que se encontraban pendientes de cumplir, según el tipo de sistema, al inicio del año 2016.",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Órdenes de detención"
+        },
+        {
+            "name": "órdenes de detención para adolescente giradas a la Policía Ministerial u homóloga, según el tipo de sistema",
+            "file": "ORDENGIR",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las órdenes de detención para adolescente giradas a la Policía Ministerial u homóloga, según el tipo de sistema, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Órdenes de detención"
+        },
+        {
+            "name": "variables que caracterizan a las entidades federativas de acuerdo con las órdenes de detención para adolescente giradas a la Policía Ministerial u homóloga, que se encontraban pendientes de cumplir, según el tipo de sistema",
+            "file": "ORDETPEN",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las órdenes de detención para adolescente giradas a la Policía Ministerial u homóloga, que se encontraban pendientes de cumplir, según el tipo de sistema, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Órdenes de detención"
+        },
+        {
+            "name": "Agencias del Ministerio Público de la Procuraduría General de Justicia o Fiscalía General",
+            "file": "agen_min",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las Agencias del Ministerio Público de la Procuraduría General de Justicia o Fiscalía General, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Estructura organizacional y recursos",
+            "submodule": "Agencias del Ministerio Público"
+        },
+        {
+            "name": "personal con que contaban las Agencias del Ministerio Público de la Procuraduría General de Justicia o Fiscalía General, según su sexo",
+            "file": "per_agen",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con el personal con que contaban las Agencias del Ministerio Público de la Procuraduría General de Justicia o Fiscalía General, según su sexo, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Estructura organizacional y recursos",
+            "submodule": "Agencias del Ministerio Público"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, durante el año 2016",
+            "file": "aver_ini",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Ingresos o aperturas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según presentación del probable responsable, tipo de detención y tipo de orden judicial, durante el año 2016",
+            "file": "aver_del",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según presentación del probable responsable, tipo de detención y tipo de orden judicial, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Ingresos o aperturas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los presuntos delitos registrados en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según tipo de delito y forma de registro, durante el año 2016",
+            "file": "deli_ave",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los presuntos delitos registrados en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según tipo de delito y forma de registro, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Ingresos o aperturas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los presuntos delitos seleccionados registrados en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según tipo de delito y forma de registro, durante el año 2016",
+            "file": "deli_eje",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los presuntos delitos seleccionados registrados en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según tipo de delito y forma de registro, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Ingresos o aperturas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las órdenes de protección dictadas a las víctimas registradas en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, durante el año 2016",
+            "file": "ing_aper",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las órdenes de protección dictadas a las víctimas registradas en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Víctimas registradas en los ingresos"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los inculpados y\/o imputados registrados en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según su sexo, durante el año 2016",
+            "file": "incu_reg",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los inculpados y\/o imputados registrados en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según su sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Inculpados o imputados registrados en los ingresos o aperturas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los inculpados y\/o imputados identificados (hombres y mujeres) registrados en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según el rango de edad y sexo, durante el año 2016",
+            "file": "incu_eda",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los inculpados y\/o imputados identificados (hombres y mujeres) registrados en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según el rango de edad y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Inculpados o imputados registrados en los ingresos o aperturas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos cometidos por los inculpados y\/o imputados registrados en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según su sexo, durante el año 2016",
+            "file": "elitpro",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos cometidos por los inculpados y\/o imputados registrados en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según su sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Inculpados o imputados registrados en los ingresos o aperturas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas y\/o carpetas de investigación determinadas por el Ministerio Público del Fuero Común, durante el año 2016",
+            "file": "avcarpin",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas y\/o carpetas de investigación determinadas por el Ministerio Público del Fuero Común, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Conclusiones durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas determinadas por el Ministerio Público del Fuero Común, según su tipo de determinación, durante el año 2016",
+            "file": "avdeterm",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas determinadas por el Ministerio Público del Fuero Común, según su tipo de determinación, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Conclusiones durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las carpetas de investigación determinadas por el Ministerio Público del Fuero Común, según su tipo de determinación, durante el año 2016",
+            "file": "carpdete",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las carpetas de investigación determinadas por el Ministerio Público del Fuero Común, según su tipo de determinación, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Conclusiones durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas determinadas con reserva y carpetas de investigación determinadas con archivo temporal por el Ministerio Público del Fuero Común que se reactivaron para continuar con el cauce del procedimiento, durante el año 2016",
+            "file": "cat_aver",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas determinadas con reserva y carpetas de investigación determinadas con archivo temporal por el Ministerio Público del Fuero Común que se reactivaron para continuar con el cauce del procedimiento, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Conclusiones durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos seleccionados registrados en las averiguaciones previas y\/o carpetas de investigación determinadas por el Ministerio Público del Fuero Común, según tipo de delito y forma de registro, durante el año 2016",
+            "file": "deli_car",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos seleccionados registrados en las averiguaciones previas y\/o carpetas de investigación determinadas por el Ministerio Público del Fuero Común, según tipo de delito y forma de registro, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Conclusiones durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las carpetas de investigación cerradas por el Ministerio Público del Fuero Común, según el tipo de cierre, durante el año 2016",
+            "file": "inve_cie",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las carpetas de investigación cerradas por el Ministerio Público del Fuero Común, según el tipo de cierre, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Cierres durante el año "
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las medidas cautelares dictadas en las carpetas de investigación cerradas con formulación de acusación por el Ministerio Público del Fuero Común, según su tipo, durante el año 2016",
+            "file": "med_caut",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las medidas cautelares dictadas en las carpetas de investigación cerradas con formulación de acusación por el Ministerio Público del Fuero Común, según su tipo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Cierres durante el año "
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los acuerdos reparatorios contenidos en las carpetas de investigación cerradas con acuerdo reparatorio por el Ministerio Público del Fuero Común, según su tipo, durante el año 2016",
+            "file": "acue_rep",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los acuerdos reparatorios contenidos en las carpetas de investigación cerradas con acuerdo reparatorio por el Ministerio Público del Fuero Común, según su tipo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Cierres durante el año "
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los acuerdos reparatorios de otro tipo contenidos en las carpetas de investigación cerradas con acuerdo reparatorio por el Ministerio Público del Fuero Común, según su tipo, durante el año 2016",
+            "file": "acue_otr",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los acuerdos reparatorios de otro tipo contenidos en las carpetas de investigación cerradas con acuerdo reparatorio por el Ministerio Público del Fuero Común, según su tipo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Cierres durante el año "
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos seleccionados registrados en las carpetas de investigación cerradas por el Ministerio Público del Fuero Común, según tipo de delito y forma de registro, durante el año 2016",
+            "file": "reg_ejec",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos seleccionados registrados en las carpetas de investigación cerradas por el Ministerio Público del Fuero Común, según tipo de delito y forma de registro, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Cierres durante el año "
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas y\/o carpetas de investigación pendientes de concluir por el Ministerio Público del Fuero Común, al cierre del año 2016",
+            "file": "aver_pre",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas y\/o carpetas de investigación pendientes de concluir por el Ministerio Público del Fuero Común, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Existencias al cierre del año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas pendientes de concluir por el Ministerio Público del Fuero Común, según su estatus, al cierre del año 2016",
+            "file": "aver_pen",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas pendientes de concluir por el Ministerio Público del Fuero Común, según su estatus, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Existencias al cierre del año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las carpetas de investigación pendientes de concluir por el Ministerio Público del Fuero Común, según su estatus, al cierre del año 2016",
+            "file": "inv_pend",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las carpetas de investigación pendientes de concluir por el Ministerio Público del Fuero Común, según su estatus, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Existencias al cierre del año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los presuntos delitos registrados en las averiguaciones previas y\/o carpetas de investigación pendientes de concluir por el Ministerio Público del Fuero Común, según forma de registro, al cierre del año 2016",
+            "file": "deli_pen",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los presuntos delitos registrados en las averiguaciones previas y\/o carpetas de investigación pendientes de concluir por el Ministerio Público del Fuero Común, según forma de registro, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Existencias al cierre del año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los presuntos delitos seleccionados registrados en averiguaciones previas y carpetas de investigación pendientes de concluir por el Ministerio Público del Fuero Común, según tipo de delito y forma de registro, al cierre del año 2016",
+            "file": "delitcon",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los presuntos delitos seleccionados registrados en averiguaciones previas y carpetas de investigación pendientes de concluir por el Ministerio Público del Fuero Común, según tipo de delito y forma de registro, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Existencias al cierre del año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las medidas cautelares solicitadas por los agentes\/fiscales del Ministerio Público estatal, según su resolución ante el Juez de Control o Garantías, durante el año 2016",
+            "file": "mecautel",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las medidas cautelares solicitadas por los agentes\/fiscales del Ministerio Público estatal, según su resolución ante el Juez de Control o Garantías, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Medidas cautelares"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las medidas cautelares procedentes solicitadas por los agentes\/fiscales del Ministerio Público estatal, según su tipo, durante el año 2016",
+            "file": "medtipos",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las medidas cautelares procedentes solicitadas por los agentes\/fiscales del Ministerio Público estatal, según su tipo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Medidas cautelares"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los imputados a los que se les impuso medidas cautelares procedentes solicitadas por los agentes\/fiscales del Ministerio Público estatal, según su sexo, durante el año 2016",
+            "file": "impucaut",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los imputados a los que se les impuso medidas cautelares procedentes solicitadas por los agentes\/fiscales del Ministerio Público estatal, según su sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Medidas cautelares"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las medidas cautelares procedentes solicitadas por los agentes\/fiscales del Ministerio Público estatal impuestas a los imputados, según sexo, durante el año 2016",
+            "file": "medicaut",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las medidas cautelares procedentes solicitadas por los agentes\/fiscales del Ministerio Público estatal impuestas a los imputados, según sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de justicia",
+            "submodule": "Medidas cautelares"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las solicitudes de atención a través de medios alternativos de solución de conflictos recibidas en los órganos o centros o unidades especializadas en la solución de conflictos bajo el sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según el tipo de materia, tipo de solicitante y estatus, durante el año 2016",
+            "file": "solicitu",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las solicitudes de atención a través de medios alternativos de solución de conflictos recibidas en los órganos o centros o unidades especializadas en la solución de conflictos bajo el sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según el tipo de materia, tipo de solicitante y estatus, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Solicitudes recibidas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los expedientes abiertos por los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según el tipo de materia, durante el año 2016",
+            "file": "exp_abie",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los expedientes abiertos por los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según el tipo de materia, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Solicitudes recibidas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos y conductas antisociales registrados en los expedientes abiertos en materia penal y justicia para adolescentes por los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, durante el año 2016",
+            "file": "deli_con",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos y conductas antisociales registrados en los expedientes abiertos en materia penal y justicia para adolescentes por los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Solicitudes recibidas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos concluidos bajo el sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según el tipo de conclusión y materia, durante el año 2016",
+            "file": "asun_con",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos concluidos bajo el sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según el tipo de conclusión y materia, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Asuntos concluidos durante el año y seguimiento al cumplimiento de acuerdos"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos solucionados bajo el sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según materia, medio y tipo de solución, durante el año 2016",
+            "file": "tipo_sol",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos solucionados bajo el sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según materia, medio y tipo de solución, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Asuntos concluidos durante el año y seguimiento al cumplimiento de acuerdos"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los acuerdos alcanzados en los asuntos solucionados a través de Junta Restaurativa, según el tipo de materia y tipo de reparación acordada, durante el año 2016",
+            "file": "acu_alca",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los acuerdos alcanzados en los asuntos solucionados a través de Junta Restaurativa, según el tipo de materia y tipo de reparación acordada, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Asuntos concluidos durante el año y seguimiento al cumplimiento de acuerdos"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos solucionados en proceso de seguimiento al cumplimiento de los acuerdos, por parte del área y\/o personal respectivo, según el medio de solución y materia, al cierre del año 2016",
+            "file": "asun_pro",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos solucionados en proceso de seguimiento al cumplimiento de los acuerdos, por parte del área y\/o personal respectivo, según el medio de solución y materia, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Asuntos concluidos durante el año y seguimiento al cumplimiento de acuerdos"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos en trámite y\/o integración en los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según materia y etapa, al cierre del año 2016",
+            "file": "asun_tra",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos en trámite y\/o integración en los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según materia y etapa, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Asuntos en trámite y\/o integración al cierre del año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos y conductas antisociales registrados en los asuntos en trámite y\/o integración en materia penal y justicia para adolescentes en los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, al cierre del año 2016",
+            "file": "asu_tram",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos y conductas antisociales registrados en los asuntos en trámite y\/o integración en materia penal y justicia para adolescentes en los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Asuntos en trámite y\/o integración al cierre del año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas iniciadas y\/o investigaciones abiertas por el Ministerio Público Especializado en Adolescentes, durante el año 2016",
+            "file": "averprev",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas iniciadas y\/o investigaciones abiertas por el Ministerio Público Especializado en Adolescentes, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Ingresos o aperturas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales del fuero común seleccionadas registradas en las averiguaciones previas iniciadas y\/o investigaciones abiertas por el Ministerio Público Especializado en Adolescentes, según tipo de conducta y forma de registro, durante el año 2016",
+            "file": "coancara",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales del fuero común seleccionadas registradas en las averiguaciones previas iniciadas y\/o investigaciones abiertas por el Ministerio Público Especializado en Adolescentes, según tipo de conducta y forma de registro, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Ingresos o aperturas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los adolescentes inculpados registrados en las averiguaciones previas iniciadas y\/o investigaciones abiertas por el Ministerio Público Especializado en Adolescentes, según sexo, durante el año 2016",
+            "file": "adolincu",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los adolescentes inculpados registrados en las averiguaciones previas iniciadas y\/o investigaciones abiertas por el Ministerio Público Especializado en Adolescentes, según sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Adolescentes inculpados registrados en los ingresos o aperturas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los adolescentes inculpados identificados (hombres y mujeres) registrados en las averiguaciones previas iniciadas y\/o investigaciones abiertas por el Ministerio Público Especializado en Adolescentes, según edad y sexo, durante el año 2016",
+            "file": "adoledad",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los adolescentes inculpados identificados (hombres y mujeres) registrados en las averiguaciones previas iniciadas y\/o investigaciones abiertas por el Ministerio Público Especializado en Adolescentes, según edad y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Adolescentes inculpados registrados en los ingresos o aperturas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los adolescentes inculpados identificados (hombres y mujeres) registrados en las averiguaciones previas iniciadas y\/o investigaciones abiertas por el Ministerio Público Especializado en Adolescentes, según grado de estudios concluido y sexo, durante el año 2016",
+            "file": "adolesco",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los adolescentes inculpados identificados (hombres y mujeres) registrados en las averiguaciones previas iniciadas y\/o investigaciones abiertas por el Ministerio Público Especializado en Adolescentes, según grado de estudios concluido y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Adolescentes inculpados registrados en los ingresos o aperturas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales del fuero común cometidas por los adolescentes inculpados registrados en las averiguaciones previas iniciadas y\/o investigaciones abiertas por el Ministerio Público Especializado en Adolescentes, según sexo, durante el año 2016",
+            "file": "antcafc",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales del fuero común cometidas por los adolescentes inculpados registrados en las averiguaciones previas iniciadas y\/o investigaciones abiertas por el Ministerio Público Especializado en Adolescentes, según sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Adolescentes inculpados registrados en los ingresos o aperturas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas y\/o investigaciones determinadas por el Ministerio Público Especializado en Adolescentes, según tipo de determinación, durante el año 2016",
+            "file": "deteaver",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas y\/o investigaciones determinadas por el Ministerio Público Especializado en Adolescentes, según tipo de determinación, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Conclusiones durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales del fuero común registradas en las averiguaciones previas y\/o investigaciones determinadas por el Ministerio Público Especializado en Adolescentes, según forma de registro, durante el año 2016",
+            "file": "cadetefc",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales del fuero común registradas en las averiguaciones previas y\/o investigaciones determinadas por el Ministerio Público Especializado en Adolescentes, según forma de registro, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Conclusiones durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales del fuero común seleccionadas registradas en las averiguaciones previas y\/o investigaciones determinadas por el Ministerio Público Especializado en Adolescentes, según tipo de conducta y forma de registro, durante el año 2016",
+            "file": "registfc",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales del fuero común seleccionadas registradas en las averiguaciones previas y\/o investigaciones determinadas por el Ministerio Público Especializado en Adolescentes, según tipo de conducta y forma de registro, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Conclusiones durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las investigaciones cerradas por el Ministerio Público Especializado en Adolescentes, según tipo de cierre, durante el año 2016",
+            "file": "cacerrad",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las investigaciones cerradas por el Ministerio Público Especializado en Adolescentes, según tipo de cierre, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Cierres durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales del fuero común seleccionadas registradas en las investigaciones cerradas por el Ministerio Público Especializado en Adolescentes, según tipo de conducta y forma de registro, durante el año 2016",
+            "file": "cacerrfc",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales del fuero común seleccionadas registradas en las investigaciones cerradas por el Ministerio Público Especializado en Adolescentes, según tipo de conducta y forma de registro, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Cierres durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas y\/o investigaciones pendientes de concluir por el Ministerio Público Especializado en Adolescentes, al cierre del año 2016",
+            "file": "averipen",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las averiguaciones previas y\/o investigaciones pendientes de concluir por el Ministerio Público Especializado en Adolescentes, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Existencias al cierre del año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las investigaciones pendientes de concluir por el Ministerio Público Especializado en Adolescentes, según estatus, al cierre del año 2016",
+            "file": "investso",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las investigaciones pendientes de concluir por el Ministerio Público Especializado en Adolescentes, según estatus, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Existencias al cierre del año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales fuero común seleccionadas registradas en las averiguaciones previas y\/o investigaciones pendientes de concluir por el Ministerio Público Especializado en Adolescentes, según tipo de conductas y forma de registro, al cierre del año 2016",
+            "file": "penconej",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales fuero común seleccionadas registradas en las averiguaciones previas y\/o investigaciones pendientes de concluir por el Ministerio Público Especializado en Adolescentes, según tipo de conductas y forma de registro, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Existencias al cierre del año"
+        },
+        {
+            "name": "Presuntos delitos registrados en las investigaciones iniciadas",
+            "file": "presunto",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo los presuntos delitos registrados en las averiguaciones previas iniciadas y\/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según la forma de registro, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNPJE",
+            "module": "Procuración de Justicia",
+            "submodule": "Ingresos o aperturas durante el año"
+        },
+        {
+            "name": "Recursos presupuestales ejercidos por los órganos o centros o unidades especializadas en la solución de conflictos bajo el sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias",
+            "file": "recpresu",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los recursos presupuestales ejercidos por los órganos o centros o unidades especializadas en la solución de conflictos bajo el sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Recursos Presupuestales"
+        },
+        {
+            "name": "porcentaje de presupuesto ejercido por los órganos o centros o unidades especializadas en la solución de conflictos bajo el sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias por cada capítulo del Clasificador por Objeto del Gasto",
+            "file": "porcpres",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo el porcentaje de presupuesto ejercido por los órganos o centros o unidades especializadas en la solución de conflictos bajo el sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias por cada capítulo del Clasificador por Objeto del Gasto, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Recursos Presupuestales"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los Magistrados que integraron el Pleno del Tribunal Superior de Justicia, al momento de la aplicación del censo (mayo - julio 2017)",
+            "file": "magistra",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los Magistrados que integraron el Pleno del Tribunal Superior de Justicia, al momento de la aplicación del censo (mayo - julio 2017)",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Estructura organizacional y recursos",
+            "submodule": "Pleno del Tribunal Superior de Justicia"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con la existencia de un Consejo de la Judicatura en el Poder Judicial, durante el año 2016",
+            "file": "consjudi",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con la existencia de un Consejo de la Judicatura en el Poder Judicial, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Estructura organizacional y recursos",
+            "submodule": "Consejo de la Judicatura"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las comisiones que integraron el Consejo de la Judicatura, según tipo de función, al cierre del año 2016",
+            "file": "comifunc",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las comisiones que integraron el Consejo de la Judicatura, según tipo de función, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Estructura organizacional y recursos",
+            "submodule": "Consejo de la Judicatura"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los órganos jurisdiccionales y órganos administrativos y\/o unidades administrativas que conformaron la estructura orgánica del Tribunal Superior de Justicia y del Consejo de la Judicatura, al cierre del año 2016",
+            "file": "orgadjur",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los órganos jurisdiccionales y órganos administrativos y\/o unidades administrativas que conformaron la estructura orgánica del Tribunal Superior de Justicia y del Consejo de la Judicatura, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Estructura organizacional y recursos",
+            "submodule": "Estructura organizacional del Tribunal Superior de Justicia y del Consejo de la Judicatura"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con el personal adscrito a los órganos jurisdiccionales del Tribunal",
+            "file": "persexo",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con el personal adscrito a los órganos jurisdiccionales del Tribunal",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Estructura organizacional y recursos",
+            "submodule": "Recursos humanos del Tribunal Superior de Justicia y del Consejo de la Judicatura"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los defensores públicos y asesores jurídicos que tenía la institución o unidad administrativa encargada de la Defensoría Pública o Defensoría de Oficio del Poder Judicial, según familia lingüística y sexo, al cierre del año 2016",
+            "file": "efasefl",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los defensores públicos y asesores jurídicos que tenía la institución o unidad administrativa encargada de la Defensoría Pública o Defensoría de Oficio del Poder Judicial, según familia lingüística y sexo, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Estructura organizacional y recursos",
+            "submodule": "Defensoría pública o defensoría de oficio"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos atendidos (carga de trabajo) en los órganos jurisdiccionales en materia penal, según tipo de asunto y tipo de sistema, durante el año 2016",
+            "file": "asun_ate",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos atendidos (carga de trabajo) en los órganos jurisdiccionales en materia penal, según tipo de asunto y tipo de sistema, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Ingresos durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las causas penales y\/o consignaciones ingresadas en los órganos jurisdiccionales de primera instancia, según tipo de consignación y tipo de competencia, durante el año 2016",
+            "file": "caupenco",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las causas penales y\/o consignaciones ingresadas en los órganos jurisdiccionales de primera instancia, según tipo de consignación y tipo de competencia, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Ingresos durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las causas penales y\/o consignaciones del fuero común ingresadas en los órganos jurisdiccionales de primera instancia, según tipo de consignación y órgano jurisdiccional, durante el año 2016",
+            "file": "caupenin",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las causas penales y\/o consignaciones del fuero común ingresadas en los órganos jurisdiccionales de primera instancia, según tipo de consignación y órgano jurisdiccional, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Ingresos durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las causas penales y\/o consignaciones ingresadas a los Juzgados de Control o Garantías y que ingresaron a los Tribunales de Enjuiciamiento o Juzgados de Juicio Oral, durante el año 2016",
+            "file": "ingranio",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las causas penales y\/o consignaciones ingresadas a los Juzgados de Control o Garantías y que ingresaron a los Tribunales de Enjuiciamiento o Juzgados de Juicio Oral, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Ingresos durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos registrados en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia, según tipo de delito, sistema y forma de registro, durante el año 2016",
+            "file": "caupenfc",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos registrados en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia, según tipo de delito, sistema y forma de registro, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Ingresos durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las víctimas registradas en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia, según sistema y tipo de víctima, durante el año 2016",
+            "file": "vic_regi",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las víctimas registradas en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia, según sistema y tipo de víctima, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Víctimas registradas en las causas penales ingresadas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las víctimas personas físicas (hombres y mujeres) registradas en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia, según rango de edad, sistema y sexo, durante el año 2016",
+            "file": "vic_edad",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las víctimas personas físicas (hombres y mujeres) registradas en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia, según rango de edad, sistema y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Víctimas registradas en las causas penales ingresadas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las víctimas registradas en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia, según cantidad de delitos que se les cometieron, sistema y tipo de víctima, durante el año 2016",
+            "file": "vic_deli",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las víctimas registradas en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia, según cantidad de delitos que se les cometieron, sistema y tipo de víctima, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Víctimas registradas en las causas penales ingresadas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los procesados y\/o imputados registrados en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia, según sistema y sexo, durante el año 2016",
+            "file": "proc_reg",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los procesados y\/o imputados registrados en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia, según sistema y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Procesados y\/o imputados registrados en las causas penales ingresadas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los procesados y\/o imputados identificados (hombres y mujeres) registrados en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia, según rango de edad, sistema y sexo, durante el año 2016",
+            "file": "proc_eda",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los procesados y\/o imputados identificados (hombres y mujeres) registrados en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia, según rango de edad, sistema y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Procesados y\/o imputados registrados en las causas penales ingresadas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los procesados y\/o imputados identificados (hombres y mujeres) registrados en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia, según grado de estudios concluido, sistema y sexo, durante el año 2016",
+            "file": "proc_est",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los procesados y\/o imputados identificados (hombres y mujeres) registrados en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia, según grado de estudios concluido, sistema y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Procesados y\/o imputados registrados en las causas penales ingresadas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los procesados y\/o imputados registrados en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia en el sistema tradicional y sistema penal acusatorio (juzgados de control o garantías), según cantidad de delitos cometidos, sistema y sexo, durante el año 2016",
+            "file": "prdelsta",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los procesados y\/o imputados registrados en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia en el sistema tradicional y sistema penal acusatorio (juzgados de control o garantías), según cantidad de delitos cometidos, sistema y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Procesados y\/o imputados registrados en las causas penales ingresadas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos cometidos por los procesados y\/o imputados registrados en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia en el sistema tradicional y sistema penal acusatorio (juzgados de control o garantías), según sistema y sexo, durante el año 2016",
+            "file": "procdsta",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos cometidos por los procesados y\/o imputados registrados en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia en el sistema tradicional y sistema penal acusatorio (juzgados de control o garantías), según sistema y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Procesados y\/o imputados registrados en las causas penales ingresadas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos cometidos por los procesados y\/o imputados registrados en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia en el sistema tradicional y sistema penal acusatorio (juzgados de control o garantías), según tipo de delito, sistema y sexo, durante el año 2016",
+            "file": "prdetsta",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos cometidos por los procesados y\/o imputados registrados en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia en el sistema tradicional y sistema penal acusatorio (juzgados de control o garantías), según tipo de delito, sistema y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Procesados y\/o imputados registrados en las causas penales ingresadas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los autos de término constitucional dictados por los jueces a los procesados y\/o imputados, según sistema y tipo de auto, durante el año 2016",
+            "file": "autodict",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los autos de término constitucional dictados por los jueces a los procesados y\/o imputados, según sistema y tipo de auto, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Procesados y\/o imputados registrados en las causas penales ingresadas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las causas penales concluidas en los órganos jurisdiccionales de primera instancia, según sistema, durante el año 2016",
+            "file": "caupecon",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las causas penales concluidas en los órganos jurisdiccionales de primera instancia, según sistema, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Conclusiones durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los procesados y\/o imputados registrados en las causas penales concluidas en los órganos jurisdiccionales de primera instancia en el sistema tradicional, según tipo de conclusión, durante el año 2016",
+            "file": "caupensa",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los procesados y\/o imputados registrados en las causas penales concluidas en los órganos jurisdiccionales de primera instancia en el sistema tradicional, según tipo de conclusión, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Conclusiones durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los procesados y\/o imputados registrados en las causas penales concluidas en los juzgados de control o garantías (sistema penal acusatorio), según tipo de conclusión, durante el año 2016",
+            "file": "caupenjc",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los procesados y\/o imputados registrados en las causas penales concluidas en los juzgados de control o garantías (sistema penal acusatorio), según tipo de conclusión, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Conclusiones durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los procesados y\/o imputados registrados en las causas penales concluidas en los tribunales de enjuiciamiento o juzgados de juicio oral (sistema penal acusatorio), según tipo de conclusión, durante el año 2016",
+            "file": "caupenjo",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los procesados y\/o imputados registrados en las causas penales concluidas en los tribunales de enjuiciamiento o juzgados de juicio oral (sistema penal acusatorio), según tipo de conclusión, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Conclusiones durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos registrados en las causas penales concluidas en los órganos jurisdiccionales de primera instancia, según tipo de delito, sistema y forma de registro, durante el año 2016",
+            "file": "delconcl",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos registrados en las causas penales concluidas en los órganos jurisdiccionales de primera instancia, según tipo de delito, sistema y forma de registro, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Conclusiones durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los sentenciados registrados en las causas penales concluidas en los órganos jurisdiccionales de primera instancia en el sistema tradicional, según tipo de sentencia y sexo, durante el año 2016",
+            "file": "senregsa",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los sentenciados registrados en las causas penales concluidas en los órganos jurisdiccionales de primera instancia en el sistema tradicional, según tipo de sentencia y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Sentenciados registrados en causas penales concluidas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los sentenciados registrados en las causas penales concluidas en los juzgados de control o garantías (sistema penal acusatorio), según tipo de sentencia y sexo, durante el año 2016",
+            "file": "senrespa",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los sentenciados registrados en las causas penales concluidas en los juzgados de control o garantías (sistema penal acusatorio), según tipo de sentencia y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Sentenciados registrados en causas penales concluidas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los sentenciados registrados en las causas penales concluidas en los tribunales de enjuiciamiento o juzgados de juicio oral (sistema penal acusatorio), según tipo de sentencia y sexo, durante el año 2016",
+            "file": "senregjo",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los sentenciados registrados en las causas penales concluidas en los tribunales de enjuiciamiento o juzgados de juicio oral (sistema penal acusatorio), según tipo de sentencia y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Sentenciados registrados en causas penales concluidas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las causas penales en trámite en los órganos jurisdiccionales de primera instancia, según sistema, al cierre del año 2016",
+            "file": "caupentr",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las causas penales en trámite en los órganos jurisdiccionales de primera instancia, según sistema, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Existencias al cierre del año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los procesados y\/o imputados registrados en las causas penales en trámite en los órganos jurisdiccionales de primera instancia, según sistema, al cierre del año 2016",
+            "file": "caupetra",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los procesados y\/o imputados registrados en las causas penales en trámite en los órganos jurisdiccionales de primera instancia, según sistema, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Existencias al cierre del año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos registrados en las causas penales en trámite en los órganos jurisdiccionales de primera instancia, según tipo de delito, sistema y forma de registro, al cierre del año 2016",
+            "file": "delpentr",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos registrados en las causas penales en trámite en los órganos jurisdiccionales de primera instancia, según tipo de delito, sistema y forma de registro, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Existencias al cierre del año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las medidas cautelares solicitadas al juez de control o garantías, según tipo de medida y resolución emitida, durante el año 2016",
+            "file": "cantcaut",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las medidas cautelares solicitadas al juez de control o garantías, según tipo de medida y resolución emitida, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Medidas cautelares y suspensión condicional del proceso"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las medidas cautelares procedentes, según el rango de temporalidad por el cual fue concedida y tipo de medida, durante el año 2016",
+            "file": "cau_proc",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las medidas cautelares procedentes, según el rango de temporalidad por el cual fue concedida y tipo de medida, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Medidas cautelares y suspensión condicional del proceso"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las medidas cautelares impuestas a los procesados y\/o imputados, según tipo de medida y sexo, durante el año 2016",
+            "file": "cancaute",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las medidas cautelares impuestas a los procesados y\/o imputados, según tipo de medida y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Medidas cautelares y suspensión condicional del proceso"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las víctimas registradas en las causas penales ingresadas a los órganos jurisdiccionales de primera instancia, según delitos seleccionados y sexo, durante el año 2016",
+            "file": "caupense",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las víctimas registradas en las causas penales ingresadas a los órganos jurisdiccionales de primera instancia, según delitos seleccionados y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Exploración específica de características de delitos seleccionados"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos registrados en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia en el sistema tradicional y en el sistema penal acusatorio (juzgados de control o garantías), según delitos seleccionados, tipo de víctima y sexo, durante el año 2016",
+            "file": "del_cons",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos registrados en las causas penales ingresadas en los órganos jurisdiccionales de primera instancia en el sistema tradicional y en el sistema penal acusatorio (juzgados de control o garantías), según delitos seleccionados, tipo de víctima y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Impartición de justicia en materia penal",
+            "submodule": "Exploración específica de características de delitos seleccionados"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las solicitudes de atención a través de medios alternativos de solución de conflictos recibidas en los órganos o centros o unidades especializadas en la solución de conflictos bajo",
+            "file": "solrecib",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las solicitudes de atención a través de medios alternativos de solución de conflictos recibidas en los órganos o centros o unidades especializadas en la solución de conflictos bajo",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Solicitudes recibidas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los expedientes abiertos por los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según el tipo de materia, durante el año 2016",
+            "file": "soltotab",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los expedientes abiertos por los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según el tipo de materia, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Solicitudes recibidas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos y conductas antisociales registradas en los expedientes abiertos en materia penal, justicia para adolescentes y mixta por los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según su tipo, durante el año 2016",
+            "file": "delconan",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos y conductas antisociales registradas en los expedientes abiertos en materia penal, justicia para adolescentes y mixta por los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según su tipo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Solicitudes recibidas durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos concluidos bajo el sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según su tipo de materia y tipo de conclusión, durante el año 2016",
+            "file": "asunconc",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos concluidos bajo el sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según su tipo de materia y tipo de conclusión, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Asuntos concluidos durante el año y seguimiento al cumplimiento de acuerdos"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos y conductas antisociales registrados en los asuntos solucionados, en materia penal, justicia para adolescentes y mixta, en los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según su tipo, durante el año 2016",
+            "file": "todecaas",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos y conductas antisociales registrados en los asuntos solucionados, en materia penal, justicia para adolescentes y mixta, en los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según su tipo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Asuntos concluidos durante el año y seguimiento al cumplimiento de acuerdos"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos y conductas antisociales registrados en los asuntos solucionados, en materia penal, justicia para adolescentes y mixta, en los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según su tipo, durante el año 2016",
+            "file": "delconso",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos y conductas antisociales registrados en los asuntos solucionados, en materia penal, justicia para adolescentes y mixta, en los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según su tipo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Asuntos concluidos durante el año y seguimiento al cumplimiento de acuerdos"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos que se encontraban en trámite y\/o integración en los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según su tipo de materia y etapa, al cierre del año 2016",
+            "file": "asuntram",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos que se encontraban en trámite y\/o integración en los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según su tipo de materia y etapa, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Expedientes en trámite y\/o integración al cierre del año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos y conductas antisociales registrados en los asuntos en trámite y\/o integración, en materia penal, justicia para adolescentes y mixta, en los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según su tipo, al cierre del año 2016",
+            "file": "delexptr",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los delitos y conductas antisociales registrados en los asuntos en trámite y\/o integración, en materia penal, justicia para adolescentes y mixta, en los órganos, centros o unidades especializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Solución de Controversias, según su tipo, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia Alternativa",
+            "submodule": "Expedientes en trámite y\/o integración al cierre del año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos abiertos por los juzgados especializados en adolescentes, según el tipo de sistema, durante el año 2016",
+            "file": "asu_abie",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos abiertos por los juzgados especializados en adolescentes, según el tipo de sistema, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Ingresos durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales registradas en los asuntos abiertos por los juzgados especializados en adolescentes, según tipo de conducta, tipo de sistema y forma de registro, durante el año 2016",
+            "file": "conantfc",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales registradas en los asuntos abiertos por los juzgados especializados en adolescentes, según tipo de conducta, tipo de sistema y forma de registro, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Ingresos durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los adolescentes procesados registrados en los asuntos abiertos por los juzgados especializados en adolescentes, según tipo de sistema y sexo, durante el año 2016",
+            "file": "adoprreg",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los adolescentes procesados registrados en los asuntos abiertos por los juzgados especializados en adolescentes, según tipo de sistema y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Adolescentes procesados registrados en los asuntos abiertos durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los adolescentes procesados identificados (hombres y mujeres) registrados en los asuntos abiertos por los juzgados especializados en adolescentes, según edad, sistema y sexo, durante el año 2016",
+            "file": "adopreda",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los adolescentes procesados identificados (hombres y mujeres) registrados en los asuntos abiertos por los juzgados especializados en adolescentes, según edad, sistema y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Adolescentes procesados registrados en los asuntos abiertos durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los adolescentes procesados identificados (hombres y mujeres) registrados en los asuntos abiertos por los juzgados especializados en adolescentes, según grado de estudios concluido, sistema y sexo, durante el año 2016",
+            "file": "adoprest",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los adolescentes procesados identificados (hombres y mujeres) registrados en los asuntos abiertos por los juzgados especializados en adolescentes, según grado de estudios concluido, sistema y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Adolescentes procesados registrados en los asuntos abiertos durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales del fuero común cometidas por los adolescentes procesados registrados en los asuntos abiertos por los juzgados especializados en adolescentes, según tipo de conducta, sistema y sexo, durante el año 2016",
+            "file": "conprofc",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales del fuero común cometidas por los adolescentes procesados registrados en los asuntos abiertos por los juzgados especializados en adolescentes, según tipo de conducta, sistema y sexo, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Adolescentes procesados registrados en los asuntos abiertos durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos concluidos por los juzgados especializados en adolescentes, según tipo de sistema, durante el año 2016",
+            "file": "asun__con",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos concluidos por los juzgados especializados en adolescentes, según tipo de sistema, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Conclusiones durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos concluidos por los juzgados especializados en adolescentes, según tipo de conclusión y sistema, durante el año 2016",
+            "file": "asuticon",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos concluidos por los juzgados especializados en adolescentes, según tipo de conclusión y sistema, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Conclusiones durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales registradas en los asuntos concluidos por los juzgados especializados en adolescentes, según tipo de conducta, sistema y forma de registro, durante el año 2016",
+            "file": "ticondco",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales registradas en los asuntos concluidos por los juzgados especializados en adolescentes, según tipo de conducta, sistema y forma de registro, durante el año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Conclusiones durante el año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos en trámite en los juzgados especializados en adolescentes, según el tipo de sistema, al cierre del año 2016",
+            "file": "tottrami",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos en trámite en los juzgados especializados en adolescentes, según el tipo de sistema, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Existencias al cierre del año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos en trámite en los juzgados especializados en adolescentes en el sistema oral, según etapa, al cierre del año 2016",
+            "file": "asutraso",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con los asuntos en trámite en los juzgados especializados en adolescentes en el sistema oral, según etapa, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Existencias al cierre del año"
+        },
+        {
+            "name": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales registradas en los asuntos en trámite en los juzgados especializados en adolescentes, según tipo de conducta, sistema y forma de registro, al cierre del año 2016",
+            "file": "condanti",
+            "desc": "Contiene variables que caracterizan a las entidades federativas de acuerdo con las conductas antisociales registradas en los asuntos en trámite en los juzgados especializados en adolescentes, según tipo de conducta, sistema y forma de registro, al cierre del año 2016",
+            "years": [
+                "2017"
+            ],
+            "pack": "CNIJE",
+            "module": "Justicia para adolescentes",
+            "submodule": "Existencias al cierre del año"
+        }
+    ]
+}

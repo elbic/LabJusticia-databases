@@ -1,0 +1,20 @@
+{
+    "columns": [
+        {
+            "column": "totalca1",
+            "type": "number",
+            "desc": "La cantidad de delitos y conductas antisociales registrados en los asuntos en tr\u00e1mite y\/o integraci\u00f3n en materia penal y\r\njusticia para adolescentes en los \u00f3rganos, centros o unidades\r\nespecializadas en el Sistema de Justicia Alternativa y\/o Mecanismos Alternativos de Soluci\u00f3n de Controversias, al cierre del a\u00f1o 2016.",
+            "short": "total"
+        },
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "delicoan",
+            "type": "category",
+            "dictionary": "delicoan"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+
+		{
+			"column" : "carinvtt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "carinv1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "carinv2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "carinv3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "carinv4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "carinv5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "carinv6",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "carinvne",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

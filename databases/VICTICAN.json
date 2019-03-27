@@ -1,0 +1,136 @@
+{
+  "columns"   : [
+    {
+      "column"     : "ENTIDAD",
+      "type"       : "category",
+      "dictionary" : "ENTIDAD"
+    },
+    {
+      "column"     : "VIC_DELI",
+      "type"       : "category",
+      "dictionary" : "VIC_DELI",
+      "filter"     : 1,
+      "desc"       : "Clasificación de las entidades federativas de acuerdo con las víctimas registradas en las averiguaciones previas iniciadas y/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según la cantidad de delitos que les cometieron, durante el año 2016"
+    },
+    {
+      "column" : "VICFUETT",
+      "type"   : "number",
+      "desc"   : "total",
+      "short"  : "total"
+    },
+    {
+      "column" : "VICFUE1",
+      "type"   : "number",
+      "desc"   : "Averiguaciones previas iniciadas (Sistema Tradicional) - Personas físicas - Hombres",
+      "short"  : "Averiguaciones previas iniciadas (Sistema Tradicional) - Personas físicas - Hombres"
+    },
+    {
+      "column" : "VICFUE2",
+      "type"   : "number",
+      "desc"   : "Averiguaciones previas iniciadas (Sistema Tradicional) - Personas físicas - Mujeres",
+      "short"  : "Averiguaciones previas iniciadas (Sistema Tradicional) - Personas físicas - Mujeres"
+    },
+    {
+      "column" : "VICFUE3",
+      "type"   : "number",
+      "desc"   : "Averiguaciones previas iniciadas (Sistema Tradicional) - Personas físicas - No identificada",
+      "short"  : "Averiguaciones previas iniciadas (Sistema Tradicional) - Personas físicas - No identificada"
+    },
+    {
+      "column" : "VICFUE4",
+      "type"   : "number",
+      "desc"   : "Averiguaciones previas iniciadas (Sistema Tradicional) - Personas morales",
+      "short"  : "Averiguaciones previas iniciadas (Sistema Tradicional) - Personas morales"
+    },
+    {
+      "column" : "VICFUE5",
+      "type"   : "number",
+      "desc"   : "Averiguaciones previas iniciadas (Sistema Tradicional) - Otro tipo de víctima - Sociedad",
+      "short"  : "Averiguaciones previas iniciadas (Sistema Tradicional) - Otro tipo de víctima - Sociedad"
+    },
+    {
+      "column" : "VICFUE6",
+      "type"   : "number",
+      "desc"   : "Averiguaciones previas iniciadas (Sistema Tradicional) - Otro tipo de víctima - Estado",
+      "short"  : "Averiguaciones previas iniciadas (Sistema Tradicional) - Otro tipo de víctima - Estado"
+    },
+    {
+      "column" : "VICFUE7",
+      "type"   : "number",
+      "desc"   : "Averiguaciones previas iniciadas (Sistema Tradicional) - Otro tipo de víctima - Otro",
+      "short"  : "Averiguaciones previas iniciadas (Sistema Tradicional) - Otro tipo de víctima - Otro"
+    },
+    {
+      "column" : "VICFUE8",
+      "type"   : "number",
+      "desc"   : "Averiguaciones previas iniciadas (Sistema Tradicional) - Otro tipo de víctima - No identificada",
+      "short"  : "Averiguaciones previas iniciadas (Sistema Tradicional) - Otro tipo de víctima - No identificada"
+    },
+    {
+      "column" : "VICFUE9",
+      "type"   : "number",
+      "desc"   : "Averiguaciones previas iniciadas (Sistema Tradicional) - No identificada",
+      "short"  : "Averiguaciones previas iniciadas (Sistema Tradicional) - No identificada"
+    },
+    {
+      "column" : "VICFUE10",
+      "type"   : "number",
+      "desc"   : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Personas físicas - Hombres",
+      "short"  : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Personas físicas - Hombres"
+    },
+    {
+      "column" : "VICFUE11",
+      "type"   : "number",
+      "desc"   : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Personas físicas - Mujeres",
+      "short"  : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Personas físicas - Mujeres"
+    },
+    {
+      "column" : "VICFUE12",
+      "type"   : "number",
+      "desc"   : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Personas físicas - No identificada",
+      "short"  : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Personas físicas - No identificada"
+    },
+    {
+      "column" : "VICFUE13",
+      "type"   : "number",
+      "desc"   : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Personas morales",
+      "short"  : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Personas morales"
+    },
+    {
+      "column" : "VICFUE14",
+      "type"   : "number",
+      "desc"   : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Otro tipo de víctima - Sociedad",
+      "short"  : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Otro tipo de víctima - Sociedad"
+    },
+    {
+      "column" : "VICFUE15",
+      "type"   : "number",
+      "desc"   : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Otro tipo de víctima - Estado",
+      "short"  : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Otro tipo de víctima - Estado"
+    },
+    {
+      "column" : "VICFUE16",
+      "type"   : "number",
+      "desc"   : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Otro tipo de víctima - Otro",
+      "short"  : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Otro tipo de víctima - Otro"
+    },
+    {
+      "column" : "VICFUE17",
+      "type"   : "number",
+      "desc"   : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Otro tipo de víctima - No identificada",
+      "short"  : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Otro tipo de víctima - No identificada"
+    },
+    {
+      "column" : "VICFUE18",
+      "type"   : "number",
+      "desc"   : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - No identificada",
+      "short"  : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - No identificada"
+    },
+    {
+      "column" : "VICFUENE",
+      "type"   : "number",
+      "desc"   : "No especificado",
+      "short"  : "No especificado"
+    }
+  ]
+}

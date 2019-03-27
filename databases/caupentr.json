@@ -1,0 +1,30 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		
+		{
+			"column" : "strspatt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "strspa1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "strspa2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "strspa3",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

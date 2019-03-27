@@ -1,0 +1,59 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "tiposist",
+			"type"       : "category",
+			"dictionary" : "tiposist"
+		},
+		{
+			"column" : "vicreg1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "vicreg2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "vicreg3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "vicreg4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "vicreg5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "vicreg6",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "vicreg7",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "vicreg8",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "vicreg9",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

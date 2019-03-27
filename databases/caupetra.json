@@ -1,0 +1,19 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "cau_tram",
+			"type"       : "category",
+			"dictionary" : "cau_tram"
+		},
+		{
+			"column" : "totalca1",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

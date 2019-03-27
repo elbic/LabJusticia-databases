@@ -1,0 +1,69 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "mater_ja",
+			"type"       : "category",
+			"dictionary" : "mater_ja"
+		},
+		{
+			"column" : "prosoltt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "prosol1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "prosol2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "prosol4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "prosol5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "prosol7",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "prosol8",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "prosol10",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "prosol11",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "prosolst",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "no_aplic",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

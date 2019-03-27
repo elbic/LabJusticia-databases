@@ -1,0 +1,69 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column" : "caclog1",
+			"type"   : "number",
+			"desc"   : "Servicios personales - Capítulo 1000",
+			"short"  : "Servicios personales - Capítulo 1000"
+		},
+		{
+			"column" : "caclog2",
+			"type"   : "number",
+			"desc"   : "Materiales y suministros - Capítulo 2000",
+			"short"  : "Materiales y suministros - Capítulo 2000"
+		},
+		{
+			"column" : "caclog3",
+			"type"   : "number",
+			"desc"   : "Servicios generales - Capítulo 3000",
+			"short"  : "Servicios generales - Capítulo 3000"
+		},
+		{
+			"column" : "caclog4",
+			"type"   : "number",
+			"desc"   : "Transferencias, asignaciones, subsidios y otras ayudas - Capítulo 4000",
+			"short"  : "Transferencias, asignaciones, subsidios y otras ayudas - Capítulo 4000"
+		},
+		{
+			"column" : "caclog5",
+			"type"   : "number",
+			"desc"   : "Bienes muebles, inmuebles e intangibles - Capítulo 5000",
+			"short"  : "Bienes muebles, inmuebles e intangibles - Capítulo 5000"
+		},
+		{
+			"column" : "caclog6",
+			"type"   : "number",
+			"desc"   : "Inversión pública - Capítulo 6000",
+			"short"  : "Inversión pública - Capítulo 6000"
+		},
+		{
+			"column" : "caclog7",
+			"type"   : "number",
+			"desc"   : "Inversiones financieras y otras provisiones - Capítulo 7000",
+			"short"  : "Inversiones financieras y otras provisiones - Capítulo 7000"
+		},
+		{
+			"column" : "caclog8",
+			"type"   : "number",
+			"desc"   : "Participaciones y aportaciones - Capítulo 8000",
+			"short"  : "Participaciones y aportaciones - Capítulo 8000"
+		},
+		{
+			"column" : "caclog9",
+			"type"   : "number",
+			"desc"   : "Deuda Pública - Capítulo 9000",
+			"short"  : "Deuda Pública - Capítulo 9000"
+		},
+		{
+			"column" : "caclogne",
+			"type"   : "number",
+			"desc"   : "No especificado",
+			"short"  : "No especificado"
+		}
+	]
+}

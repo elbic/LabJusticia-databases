@@ -1,0 +1,19 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "acueotro",
+			"type"       : "category",
+			"dictionary" : "acueotro"
+		},
+		{
+			"column" : "totalca1",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

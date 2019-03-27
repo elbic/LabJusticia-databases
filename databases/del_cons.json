@@ -1,0 +1,59 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "delisele",
+			"type"       : "category",
+			"dictionary" : "delisele"
+		},
+		{
+			"column" : "pedesi1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "pedesi2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "pedesi3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "pedesi4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "pedesi5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "pedesi6",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "pedesi7",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "pedesi8",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "pedesi9",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

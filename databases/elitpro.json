@@ -1,0 +1,59 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column" : "avcanitt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avcani1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avcani2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avcani3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avcani4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avcani5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avcani6",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avcani7",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avcani8",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avcanine",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

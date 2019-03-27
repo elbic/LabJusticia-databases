@@ -1,0 +1,49 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "delitos",
+			"type"       : "category",
+			"dictionary" : "delitos"
+		},
+		{
+			"column" : "caupcott",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "caupco1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "caupco2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "caupco3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "caupco4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "caupco5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "caupco6",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "cond_ant",
+			"type"       : "category",
+			"dictionary" : "cond_ant"
+		},
+		{
+			"column" : "seonidtt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "seonid1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "seonid2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "seonid3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "seonid4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "seonid5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "seonid6",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

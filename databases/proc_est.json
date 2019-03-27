@@ -1,0 +1,39 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "gdo_estu",
+			"type"       : "category",
+			"dictionary" : "gdo_estu"
+		},
+		{
+			"column" : "stpjsxtt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpjsx1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpjsx2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpjsx4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpjsx5",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

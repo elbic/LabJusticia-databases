@@ -1,0 +1,39 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "gdoestad",
+			"type"       : "category",
+			"dictionary" : "gdoestad"
+		},
+		{
+			"column" : "oemsextt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "oemsex1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "oemsex2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "oemsex4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "oemsex5",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

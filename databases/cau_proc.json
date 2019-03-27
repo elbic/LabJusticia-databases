@@ -1,0 +1,54 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "rangotem",
+			"type"       : "category",
+			"dictionary" : "rangotem"
+		},
+		{
+			"column" : "medcautt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "medcau1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "medcau2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "medcau3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "medcau4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "medcau5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "medcau6",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "medcaune",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

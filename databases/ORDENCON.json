@@ -1,0 +1,35 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "ORDDETCO",
+			"type"       : "category",
+      "dictionary" : "ORDDETCO",
+			"desc"       : "Clasificación de las entidades federativas de acuerdo con las Numérico 1 órdenes de detención para adolescente concluidas, según el tipo de sistema, durante el año 2016"
+		},
+		{
+			"column" : "ORDECOTT",
+			"type"   : "number",
+			"desc"   : "Total"
+		},
+		{
+			"column" : "ORDECO1",
+			"type"   : "number",
+			"desc"   : "Cumplimentadas"
+		},
+		{
+			"column" : "ORDECO2",
+			"type"   : "number",
+			"desc"   : "Canceladas"
+		},
+		{
+			"column" : "ORDECO3",
+			"type"   : "number",
+			"desc"   : "Otra"
+		}
+	]
+}

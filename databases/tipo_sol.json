@@ -1,0 +1,79 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "mat_alte",
+			"type"       : "category",
+			"dictionary" : "mat_alte"
+		},
+		{
+			"column" : "mesolutt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "mesolu1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "mesolu2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "mesolu3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "mesolu4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "mesolu5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "mesolu6",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "mesolu7",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "mesolu8",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "mesolu9",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "mesolu10",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "mesolu11",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "mesolune",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

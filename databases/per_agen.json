@@ -1,0 +1,22 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+      "column"     : "sexo",
+      "type"       : "category",
+      "dictionary" : "sexo",
+      "filter"     : 1,
+      "desc"       : "Clasificación de las entidades federativas de acuerdo con el personal con que contaban las Agencias del Ministerio Público de la Procuraduría General de Justicia o Fiscalía General, según su sexo"
+    },
+		{
+			"column" : "totalca1",
+			"type"   : "number",
+			"desc"   : "La cantidad de personal con que contaban las Agencias del Ministerio Público de la Procuraduría General de Justicia o Fiscalía General de las entidades federativas, según su sexo",
+			"short"  : "cantidad de personal"
+		}
+	]
+}

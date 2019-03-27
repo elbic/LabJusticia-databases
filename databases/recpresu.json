@@ -1,0 +1,21 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column" : "tpresupu",
+			"type"   : "number",
+			"desc"   : "La cantidad de presupuesto ejercido por los órganos o centros o unidades especializadas en la solución de conflictos bajo el sistema de Justicia Alternativa y/o Mecanismos Alternativos de Solución de Controversias, durante el año 2016",
+			"short"  : "cantidad de presupuesto ejercido"
+		},
+		{
+			"column" : "tporcpre",
+			"type"   : "number",
+			"desc"   : "El porcentaje de presupuesto ejercido por los órganos o centros o unidades especializadas en la solución de conflictos bajo el sistema de Justicia Alternativa y/o Mecanismos Alternativos de Solución de Controversias, respecto del total de presupuesto ejercido por el Tribunal Superior de Justicia y Consejo de la Judicatura, durante el año 2016.",
+			"short"  : "porcentaje de presupuesto ejercido"
+		}
+	]
+}

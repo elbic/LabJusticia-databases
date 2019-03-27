@@ -1,0 +1,49 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "delitos",
+			"type"       : "category",
+			"dictionary" : "delitos"
+		},
+		{
+			"column" : "caupintt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "caupin1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "caupin2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "caupin3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "caupin4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "caupin5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "caupin6",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

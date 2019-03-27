@@ -1,0 +1,49 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "VEHIRORE",
+			"type"       : "category",
+			"dictionary" : "VEHIRORE"
+		},
+		{
+			"column" : "TIPVEHTT",
+			"type"   : "number",
+			"desc"   : "Total"
+		},
+		{
+			"column" : "TIPVEH1",
+			"type"   : "number",
+			"desc"   : "Automóviles"
+		},
+		{
+			"column" : "TIPVEH2",
+			"type" : "number",
+			"desc" : "Camionetas"
+		},
+		{
+			"column" : "TIPVEH3",
+			"type"   : "number",
+			"desc"   : "Camiones"
+		},
+		{
+			"column" : "TIPVEH4",
+			"type"   : "number",
+			"desc"   : "Motocicletas"
+		},
+		{
+			"column" : "TIPVEH5",
+			"type"   : "number",
+			"desc"   : "Otro"
+		},
+		{
+			"column" : "TIPVEHNE",
+			"type"   : "number",
+			"desc"   : "No especificado"
+		}
+	]
+}

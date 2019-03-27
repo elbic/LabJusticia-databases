@@ -1,0 +1,59 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "averaini",
+			"type"       : "category",
+			"dictionary" : "averaini"
+		},
+		{
+			"column" : "vicreg1",
+			"type"   : "number",
+			"desc"   : "vicreg1"
+		},
+		{
+			"column" : "vicreg2",
+			"type"   : "number",
+			"desc"   : "vicreg2"
+		},
+		{
+			"column" : "vicreg3",
+			"type"   : "number",
+			"desc"   : "vicreg3"
+		},
+		{
+			"column" : "vicreg4",
+			"type"   : "number",
+			"desc"   : "vicreg4"
+		},
+		{
+			"column" : "vicreg5",
+			"type"   : "number",
+			"desc"   : "vicreg5"
+		},
+		{
+			"column" : "vicreg6",
+			"type"   : "number",
+			"desc"   : "vicreg6"
+		},
+		{
+			"column" : "vicreg7",
+			"type"   : "number",
+			"desc"   : "vicreg7"
+		},
+		{
+			"column" : "vicreg8",
+			"type"   : "number",
+			"desc"   : "vicreg8"
+		},
+		{
+			"column" : "vicreg9",
+			"type"   : "number",
+			"desc"   : "vicreg9"
+		}
+	]
+}

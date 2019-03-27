@@ -1,0 +1,49 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "mater_ja",
+			"type"       : "category",
+			"dictionary" : "mater_ja"
+		},
+		{
+			"column" : "tietaptt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "tietap1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "tietap2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "tietap3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "tietap4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "tietapne",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "no_aplic",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

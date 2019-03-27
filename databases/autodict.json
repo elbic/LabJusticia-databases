@@ -1,0 +1,74 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column" : "autosttt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "autost1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "autost2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "autost3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "autost4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "autost5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "autost6",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "autspatt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "autspa1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "autspa2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "autspa3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "autspa4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "autspa5",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

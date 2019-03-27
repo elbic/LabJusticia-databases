@@ -1,0 +1,19 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "",
+			"type"       : "category",
+			"dictionary" : ""
+		},
+		{
+			"column" : "",
+			"type"   : "number",
+			"desc"   : ""
+		},
+	]
+}

@@ -1,0 +1,95 @@
+{
+  "columns"   : [
+    {
+      "column"     : "ENTIDAD",
+      "type"       : "category",
+      "dictionary" : "ENTIDAD"
+    },
+    {
+      "column"     : "DELITOS",
+      "type"       : "category",
+      "dictionary" : "DELITOS",
+      "filter"     : 1,
+      "desc"       : ""
+    },
+    {
+      "column" : "RAEDADTT",
+      "type"   : "number",
+      "desc"   : "total",
+      "short"  : "total"
+    },
+    {
+      "column" : "RAEDAD1",
+      "type"   : "number",
+      "desc"   : "De 0 a 4 años",
+      "short"  : "De 0 a 4 años"
+    },
+    {
+      "column" : "RAEDAD2",
+      "type"   : "number",
+      "desc"   : "De 5 a 9 años",
+      "short"  : "De 5 a 9 años"
+    },
+    {
+      "column" : "RAEDAD3",
+      "type"   : "number",
+      "desc"   : "De 10 a 14 años",
+      "short"  : "De 10 a 14 años"
+    },
+    {
+      "column" : "RAEDAD4",
+      "type"   : "number",
+      "desc"   : "De 15 a 19 años"
+    },
+    {
+      "column" : "RAEDAD5",
+      "type"   : "number",
+      "desc"   : "De 20 a 24 años"
+    },
+    {
+      "column" : "RAEDAD6",
+      "type"   : "number",
+      "desc"   : "De 25 a 29 años"
+    },
+    {
+      "column" : "RAEDAD7",
+      "type"   : "number",
+      "desc"   : "De 30 a 34 años"
+    },
+    {
+      "column" : "RAEDAD8",
+      "type"   : "number",
+      "desc"   : "De 35 a 39 años"
+    },
+    {
+      "column" : "RAEDAD9",
+      "type"   : "number",
+      "desc"   : "De 40 a 44 años"
+    },
+    {
+      "column" : "RAEDAD10",
+      "type"   : "number",
+      "desc"   : "De 45 a 49 años"
+    },
+    {
+      "column" : "RAEDAD11",
+      "type"   : "number",
+      "desc"   : "De 50 a 54 años"
+    },
+    {
+      "column" : "RAEDAD12",
+      "type"   : "number",
+      "desc"   : "De 55 a 59 años"
+    },
+    {
+      "column" : "RAEDAD13",
+      "type"   : "number",
+      "desc"   : "De 60 años o más"
+    },
+    {
+      "column" : "RAEDAD14",
+      "type"   : "number",
+      "desc"   : "No identificado"
+    }
+  ]
+}

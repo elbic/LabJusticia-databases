@@ -1,0 +1,24 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "ticonsig",
+			"type"       : "category",
+			"dictionary" : "ticonsig"
+		},
+		{
+			"column" : "tisist1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "tisist2",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

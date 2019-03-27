@@ -1,0 +1,11 @@
+﻿ran_tiem,descrip
+1,"Menor a 3 meses"
+2,"De 3 meses hasta menos de 6 meses"
+3,"De 6 meses hasta menos de 9 meses"
+4,"De 9 meses hasta menos de 1 año"
+5,"De 1 año hasta menos de 1 año 3 meses"
+6,"De 1 año 3 meses hasta menos de 1 año 6 meses"
+7,"De 1 año 6 meses hasta menos de 1 año 9 meses"
+8,"De 1 año 9 meses hasta menos de 2 años"
+9,"2 años o más"
+99,"No especificado"

@@ -1,0 +1,29 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "tip_conc",
+			"type"       : "category",
+			"dictionary" : "tip_conc"
+		},
+		{
+			"column" : "sisoemtt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "sisoem1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "sisoem2",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

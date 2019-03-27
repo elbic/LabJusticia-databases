@@ -1,0 +1,44 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "mat_alte",
+			"type"       : "category",
+			"dictionary" : "mat_alte"
+		},
+		{
+			"column" : "medsoltt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "medsol1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "medsol2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "medsol3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "medsol4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "medsol5",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

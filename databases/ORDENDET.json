@@ -1,0 +1,21 @@
+{
+  "columns"   : [
+    {
+      "column"     : "ENTIDAD",
+      "type"       : "category",
+      "dictionary" : "ENTIDAD"
+    },
+    {
+      "column"     : "ORDDETPE",
+      "type"       : "category",
+      "dictionary" : "ORDDETPE",
+      "filter"     : 1,
+      "desc"       : ""
+    },
+    {
+      "column" : "TOTALCA1",
+      "type"   : "number",
+      "desc"   : ""
+    }
+  ]
+}

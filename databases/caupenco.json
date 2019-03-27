@@ -1,0 +1,44 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "ticonsig",
+			"type"       : "category",
+			"dictionary" : "ticonsig"
+		},
+		{
+			"column" : "compettt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "compet1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "compet2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "compet3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "compet4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "compet5",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

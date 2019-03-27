@@ -1,0 +1,69 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "mater_ja",
+			"type"       : "category",
+			"dictionary" : "mater_ja"
+		},
+		{
+			"column" : "conclstt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "concls1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "concls2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "concls3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "concls4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "concls5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "concls6",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "concls7",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "concls8",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "concls9",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "no_aplic",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

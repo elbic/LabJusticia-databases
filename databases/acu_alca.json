@@ -1,0 +1,39 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "mat_alte",
+			"type"       : "category",
+			"dictionary" : "mat_alte"
+		},
+		{
+			"column" : "reparatt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "repara1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "repara2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "repara3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "repara4",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

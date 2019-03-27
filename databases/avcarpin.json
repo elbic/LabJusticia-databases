@@ -1,0 +1,19 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "tipacdet",
+			"type"       : "category",
+			"dictionary" : "tipacdet"
+		},
+		{
+			"column" : "totalca1",
+			"type"   : "number",
+			"desc"   : "totalca1"
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+
+		{
+			"column" : "conclttt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "conclt1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "conclt2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "conclt3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "conclt4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "conclt5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "conclt6",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "conclt7",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

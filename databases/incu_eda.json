@@ -1,0 +1,39 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "rangedad",
+			"type"       : "category",
+			"dictionary" : "rangedad"
+		},
+		{
+			"column" : "avcahmtt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avcahm1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avcahm2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avcahm4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avcahm5",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

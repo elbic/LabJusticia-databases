@@ -1,0 +1,14 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column" : "RANKING",
+			"type"   : "number",
+			"desc"   : "Total"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "delconsu",
+			"type"       : "category",
+			"dictionary" : "delconsu"
+		},
+		{
+			"column" : "acpecttt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "acpect1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "acpect2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "acpect4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "acpect5",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

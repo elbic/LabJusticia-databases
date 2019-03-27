@@ -1,0 +1,15 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+
+		{
+			"column" : "totalca1",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

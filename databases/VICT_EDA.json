@@ -1,0 +1,39 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "ran_edad",
+			"type"       : "category",
+			"dictionary" : "ran_edad"
+		},
+		{
+			"column" : "avcahmtt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avcahm1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avcahm2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avcahm4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avcahm5",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

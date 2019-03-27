@@ -1,0 +1,29 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "delconsu",
+			"type"       : "category",
+			"dictionary" : "delconsu"
+		},
+		{
+			"column" : "delregtt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "delreg1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "delreg2",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

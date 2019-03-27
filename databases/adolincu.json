@@ -1,0 +1,34 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "averinve",
+			"type"       : "category",
+			"dictionary" : "averinve"
+		},
+		{
+			"column" : "sexoidtt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "sexoid1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "sexoid2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "sexoid3",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

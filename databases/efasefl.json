@@ -1,0 +1,39 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "fam_ling",
+			"type"       : "category",
+			"dictionary" : "fam_ling"
+		},
+		{
+			"column" : "depasjtt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "depasj1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "depasj2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "depasj4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "depasj5",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

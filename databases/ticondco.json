@@ -1,0 +1,49 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "cond_ant",
+			"type"       : "category",
+			"dictionary" : "cond_ant"
+		},
+		{
+			"column" : "aconcttt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "aconct1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "aconct2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "aconct3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "aconct4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "aconct5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "aconct6",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

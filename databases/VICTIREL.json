@@ -1,0 +1,46 @@
+{
+  "columns"   : [
+    {
+      "column"     : "ENTIDAD",
+      "type"       : "category",
+      "dictionary" : "ENTIDAD"
+    },
+    {
+      "column"     : "RELVICTI",
+      "type"       : "category",
+      "dictionary" : "RELVICTI",
+      "filter"     : 1,
+      "desc"       : "Clasificación de las entidades federativas de acuerdo con las víctimas personas físicas (hombres y mujeres) registradas en las averiguaciones previas iniciadas y/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común, según la relación con el inculpado y/o imputado, durante el año 2016"
+    },
+    {
+      "column" : "AVCAHMTT",
+      "type"   : "number",
+      "desc"   : "La cantidad de víctimas personas físicas (hombres y mujeres) registradas en las averiguaciones previas iniciadas y/o carpetas de investigación abiertas por el Ministerio Público del Fuero Común de las entidades federativas, según la relación con el inculpado y/o imputado y sexo, durante el año 2016.",
+      "short"  : "total"
+    },
+    {
+      "column" : "AVCAHM1",
+      "type"   : "number",
+      "desc"   : "Averiguaciones previas iniciadas (Sistema Tradicional) - Hombres",
+      "short"   : "Averiguaciones previas iniciadas (Sistema Tradicional) - Hombres"
+    },
+    {
+      "column" : "AVCAHM2",
+      "type"   : "number",
+      "desc"   : "Averiguaciones previas iniciadas (Sistema Tradicional) - Mujeres",
+      "short"   : "Averiguaciones previas iniciadas (Sistema Tradicional) - Mujeres"
+    },
+    {
+      "column" : "AVCAHM4",
+      "type"   : "number",
+      "desc"   : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Hombres",
+      "short"   : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Hombres"
+    },
+    {
+      "column" : "AVCAHM5",
+      "type"   : "number",
+      "desc"   : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Mujeres",
+      "short"   : "Carpetas de investigación abiertas (Sistema Penal Acusatorio) - Mujeres"
+    }
+  ]
+}

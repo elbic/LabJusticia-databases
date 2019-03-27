@@ -1,0 +1,14 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "re_snn1",
+			"type"       : "category",
+			"dictionary" : "re_snn1"
+		}
+	]
+}

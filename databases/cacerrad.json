@@ -1,0 +1,39 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column" : "ticiertt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "ticier1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "ticier2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "ticier3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "ticier4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "ticierne",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

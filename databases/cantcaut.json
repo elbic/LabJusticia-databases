@@ -1,0 +1,34 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "medidaca",
+			"type"       : "category",
+			"dictionary" : "medidaca"
+		},
+		{
+			"column" : "resoemtt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "resoem1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "resoem2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "resoemne",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

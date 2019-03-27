@@ -1,0 +1,39 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "RAN_EDAD",
+			"type"       : "category",
+			"dictionary" : "RAN_EDAD"
+		},
+		{
+			"column" : "STPSEXTT",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "STPSEX1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "STPSEX2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "STPSEX4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "STPSEX5",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

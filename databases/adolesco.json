@@ -1,0 +1,39 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "gdoestad",
+			"type"       : "category",
+			"dictionary" : "gdoestad"
+		},
+		{
+			"column" : "avinhmtt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avinhm1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avinhm2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avinhm4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "avinhm5",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

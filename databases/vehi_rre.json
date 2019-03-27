@@ -1,0 +1,30 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "CL_VEHI",
+			"type"       : "category",
+			"dictionary" : "cl_vehi"
+		},
+		{
+			"column"     : "TIPO_VEH",
+			"type"       : "category",
+			"dictionary" : "tipo_veh",
+			"desc"       : "Clasificación de las entidades federativas de acuerdo con el tipo de vehículos que fueron robados y recuperados"
+		},
+		{
+			"column" : "TT_VEHI",
+			"type"   : "number",
+			"desc"   : "La cantidad de vehículos que fueron robados y recuperados"
+		},
+		{
+			"column" : "EST_TTVE",
+			"type"   : "category",
+			"desc"   : "Clasificación de los casos en que la información no aplica (NA) o no es disponible (ND) o no se conoce o no se cuenta con elementos para responder (NS) para el total de vehículos que fueron robados y recuperados"
+		}
+	]
+}

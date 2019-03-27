@@ -1,0 +1,29 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "delitos",
+			"type"       : "category",
+			"dictionary" : "delitos"
+		},
+		{
+			"column" : "delcoatt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "delcoa1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "delcoa2",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

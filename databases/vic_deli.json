@@ -1,0 +1,109 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "vict_del",
+			"type"       : "category",
+			"dictionary" : "vict_del"
+		},
+		{
+			"column" : "stpvnitt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni2",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni3",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni4",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni5",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni6",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni7",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni8",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni9",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni10",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni11",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni12",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni13",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni14",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni15",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni16",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni17",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "stpvni18",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}

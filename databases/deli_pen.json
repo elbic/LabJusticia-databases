@@ -1,0 +1,29 @@
+{
+	"columns"   : [
+		{
+			"column"     : "ENTIDAD",
+			"type"       : "category",
+			"dictionary" : "ENTIDAD"
+		},
+		{
+			"column"     : "delidete",
+			"type"       : "category",
+			"dictionary" : "delidete"
+		},
+		{
+			"column" : "acpenctt",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "acpenc1",
+			"type"   : "number",
+			"desc"   : ""
+		},
+		{
+			"column" : "acpenc2",
+			"type"   : "number",
+			"desc"   : ""
+		}
+	]
+}
