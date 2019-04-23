@@ -1,0 +1,15 @@
+{
+    "columns": [
+        {
+            "column": "ENTIDAD",
+            "type": "category",
+            "dictionary": "ENTIDAD"
+        },
+        {
+            "column": "totalca1",
+            "short": "Total",
+            "type": "number",
+            "desc": "La cantidad de Agencias del Ministerio Pu\u0301blico de la Procuraduri\u0301a General de Justicia o Fiscali\u0301a General de las entidades federativas, al cierre del an\u0303o 2016."
+        }
+    ]
+}
